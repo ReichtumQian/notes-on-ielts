@@ -9,7 +9,7 @@
 -
 - ## 阅读刷题
 - C18：
-	- Test1： [[Reading: C18 Test1 Passage1]]、
+	- Test1： [[Reading: C18 Test1 Passage1]]、 [[Reading: C18 Test1 Passage2]]
 -
 - ## 听力刷题
 -
