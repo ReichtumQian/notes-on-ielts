@@ -1,7 +1,12 @@
 -
-- ## 生词
+- In Paris, [[Urban]] farmers are trying a soil-free approach to [[Agriculture]] that uses less space and fewer resources.
 -
-- Urban
 -
+- [[On top of]]
+- [[Hall]]
+- [[Bear]]
+- [[Flavour]]
+- [[Resplendently]]
+- [[Sprout]]
 -
 -
