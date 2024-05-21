@@ -1,3 +1,3 @@
-is:: [[word]]
+is:: word
 
 - n. 门厅

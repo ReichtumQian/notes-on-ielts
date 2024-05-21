@@ -1,4 +1,4 @@
-is:: [[word]]
+is:: word
 
 - n. 农业
 -
