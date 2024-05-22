@@ -1,0 +1,43 @@
+-
+- 「1」Man: Excuse me. Would you mind if I asked you some questions? We’re doing a survey on [[Transport]].
+- 「2」Sadie: Yes, that’s OK.
+- 「3」Man: First of all, can I take your name?
+- 「4」Sadie: Yes. It’s Sadie Jones.
+- 「5」Man: Thanks very much. And could I have your date of birth – just the year will do, actually. Is that all right?
+- 「6」Sadie: Yes, that’s fine. It’s 1991.
+- 「7」Man: So next your [[Postcode]], please.
+- 「8」Sadie: It’s DW30 7YZ.
+- 「9」Man: Great. Thanks. Is that in Wells?
+- 「10」Sadie: No it’s actually in Harborne – Wells isn’t far from there, though.
+- 「11」Man: I really like that area. My grandmother lived there when I was a kid.
+- 「12」Sadie: Yes, it is nice.
+- 「13」Man: Right, so now I want to ask you some questions about how you travelled here today. Did you use public transport?
+- 「14」Sadie: Yes. I came by bus.
+- 「15」Man: OK. And that was today. It’s the 24th of April, isn’t it?
+- 「16」Sadie: Isn’t it the 25th? No, actually, you’re right.
+- 「17」Man: And what was the reason for your trip today? I can see you’ve got some shopping with you.
+- 「18」Sadie: Yes. I did some shopping but the main reason I came here was to go to the [[Dentist]].
+- 「19」Man: That’s not much fun. Hope it was nothing serious.
+- 「20」Sadie: No, it was just a [check-up]([[Check up]]). It’s fine.
+- 「21」Man: Good. Do you normally travel by bus into the city centre?
+- 「22」Sadie: Yes. I stopped driving in ages ago because parking was so difficult to find and it costs so much.
+- 「23」Man: I see.
+- 「24」Sadie: The bus is much more convenient too. It only takes about 30 minutes.
+- 「25」Man: That’s good. So where did you start your journey?
+- 「26」Sadie: At the bus stop on Claxby Street.
+- 「27」Man: Is that C-L-A–X-B-Y?
+- 「28」Sadie: That's right.
+- 「29」Man: And how satisfied with the service are you? Do you have any complaints?
+- 「30」Sadie: Well, as I said, it’s very convenient and quick when it’s on time, but this morning it was late. Only about 10 minutes, but still.
+- 「31」Man: Yes, I understand that’s annoying. And what about the timetable? Do you have any comments about that?
+- 「32」Sadie: Mmm. I suppose I mainly use the bus during the day, but any time I’ve been in town in the evening – for dinner or at the cinema – I’ve noticed you have to wait a long time for a bus – there aren’t that many.
+- 「33」Man: OK, thanks. So now I’d like to ask you about your car use.
+- 「34」Sadie: Well, I have got a car but I don’t use it that often. Mainly just to go to the supermarket. But that’s about it really. My husband uses it at the weekends to go to the golf club.
+- 「35」Man: And what about a bicycle?
+- 「36」Sadie: I don’t actually have one at the moment.
+- 「37」Man: What about the city bikes you can rent? Do you ever use those?
+- 「38」Sadie: No – I [am not keen on]([[Be keen on]]) cycling there because of all the pollution. But I would like to get a bike – it would be good to use it to get to work.
+- 「39」Man: So why haven’t you got one now?
+- 「40」Sadie: Well, I live in a [[Flat]] – on the second floor and it doesn’t have any storage – so we’d have to leave it in the [[Hall]] outside the flat.
+- 「41」Man: I see. OK. Well, I think that’s all ...
+-

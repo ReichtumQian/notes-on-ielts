@@ -1,3 +1,5 @@
+topic:: technology
+
 - Conquering Earth's space junk problem
 - [Satellites]([[Satellite]]), rocket [shards]([[Shard]]) and [[Collision]] [[Debris]] are creating major traffic risks in [[Orbit]] around the planet. Researchers are working to reduce these threats.
 - A   Last year, commercial companies, military and civil departments and amateurs sent more than 400 satellites into orbit, over four times the yearly average in the previous decade. Numbers could rise even more sharply if leading space companies follow through on plans to deploy hundreds to thousands of large [constellations]([[Constellation]]) of satellites to space in the next few years.

@@ -1,3 +1,5 @@
+topic:: technology
+
 - In Paris, [[Urban]] farmers are trying a soil-free approach to [[Agriculture]] that uses less space and fewer resources.
 - Could it help cities face the threats to our food supplies?
 - On top of a striking new [[Exhibition]] [[Hall]] in southern Paris, the world's largest urban rooftop farm has started to [[Bear]] fruit.
