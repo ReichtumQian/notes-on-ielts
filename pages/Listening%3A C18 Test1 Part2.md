@@ -1,0 +1,33 @@
+- 「1」Good evening, everyone.
+- 「2」Let me start by welcoming you all to this talk and thanking you for taking the time to consider joining ACE voluntary organization.
+- 「3」ACE offers support to people and services in the local area and we’re now looking for more volunteers to help us do this.
+- 「4」By the way, I hope you’re all comfortable – we have brought in extra seats so that no one has to stand, but it does mean that the people at the back of the room may be a bit [squashed]([[Squash]]).
+- 「5」We’ll only be here for about half an hour so, hopefully, that’s OK.
+- 「6」One of the first questions we’re often asked is how old you need to be to volunteer.
+- 「7」Well, you can be as young as 16 or you can be 60 or over; it all depends on what type of voluntary work you want to do.
+- 「8」Other considerations, such as reliability, are crucial in voluntary work and age isn’t related to these, in our experience.
+- 「9」Another question we get asked relates to training.
+- 「10」Well, there’s plenty of that and it’s all face-to-face.
+- 「11」What’s more, training doesn’t end when you start working for us – it takes place before, during and after periods of work.
+- 「12」Often, it’s run by other experienced volunteers as managers tend to prefer to get on with other things.
+- 「13」Now, I would ask you to consider a couple of important issues before you decide to apply for voluntary work.
+- 「14」We don’t worry about why you want to be a volunteer – people have many different reasons that range from getting work experience to just doing something they’ve always wanted to do.
+- 「15」But it is critical that you have enough hours in the day for whatever role we agree is suitable for you – if being a volunteer becomes stressful then it’s best not to do it at all.
+- 「16」You may think that your income is important, but we don’t ask about that.
+- 「17」It’s up to you to decide if you can work without earning money.
+- 「18」What we value is [[Dedication]].
+- 「19」Some of our most [[Loyal]] volunteers earn very little themselves but still give their full energy to the work they do with us.
+- 「20」OK, so let’s take a look at some of the work areas that we need volunteers for and the sort of things that would help you in those.
+- 「21」You may wish simply to help us raise money.
+- 「22」If you have the creativity to come up with an imaginative or novel way of fundraising, we’d be delighted, as standing in the local streets or shops with a collection box can be rather boring!
+- 「23」One outdoor activity that we need volunteers for is [[Litter]] collection and for this it’s useful if you can walk for long periods, sometimes uphill.
+- 「24」Some of our regular collectors are quite elderly, but very active and keen to protect the environment.
+- 「25」If you enjoy working with children, we have three [vacancies]([[Vacancy]]) for what are called ‘playmates’.
+- 「26」These volunteers help children learn about staying healthy through a range of out-of-school activities.
+- 「27」You don’t need to have children yourself, but it’s good if you know something about nutrition and can give clear instructions.
+- 「28」If that doesn’t appeal to you, maybe you would be interested in helping out at our story club for disabled children, especially if you have done some acting.
+- 「29」We put on three performances a year based on books they have read and we’re always looking for support with the theatrical side of this.
+- 「30」The last area I’ll mention today is first aid. Volunteers who join this group can end up teaching others in [[Vulnerable]] groups who may be at risk of injury.
+- 「31」Initially, though, your priority will be to take in a lot of information and not forget any important steps or details.
+- 「32」Right, so does anyone have any questions …
+- 题目中： [[Commitment]]、 [[Retail]]、 [[Stage]]

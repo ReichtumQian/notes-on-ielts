@@ -16,7 +16,7 @@
 -
 - ## 听力刷题
 - C18：
-	- Test1： [[Listening: C18 Test1 Part1]]、
+	- Test1： [[Listening: C18 Test1 Part1]]、 [[Listening: C18 Test1 Part2]]
 - ## 写作刷题
 -
 -
