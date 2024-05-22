@@ -8,7 +8,7 @@
 - 技巧总结：[[雅思阅读技巧总结]]
 - ## 知识积累
 - 单词、词组、句式：见 [[word]]、 [[phrase]]、 [[word categorization]]
-- 写作常用表达：
+- 写作常用表达：见 [[useful expression]]
 - ## 阅读刷题
 - C18：
 	- Test1： [[Reading: C18 Test1 Passage1]]、 [[Reading: C18 Test1 Passage2]]、 [[Reading: C18 Test1 Passage3]]
@@ -16,8 +16,7 @@
 - C18：
 	- Test1： [[Listening: C18 Test1 Part1]]、 [[Listening: C18 Test1 Part2]]
 - ## 写作刷题
--
-- ## 口语刷题
 - 由 GPT4 生成范文样例
 - [[Writing: 父母过于溺爱的后果]]
+- ## 口语刷题
 -
