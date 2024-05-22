@@ -5,16 +5,12 @@
 	- 口语：
 - 资料：
 	- 刷题：雅思哥
-	- 阅读技巧：[哔哩哔哩雅思阅读技巧总结](https://www.bilibili.com/video/BV1pM4m1Q7AV)
-	-
-	-
+- 技巧总结：[[雅思阅读技巧总结]]
 - ## 知识积累
 - 单词、词组、句式：见 [[word]]、 [[phrase]]、
--
 - ## 阅读刷题
 - C18：
 	- Test1： [[Reading: C18 Test1 Passage1]]、 [[Reading: C18 Test1 Passage2]]、 [[Reading: C18 Test1 Passage3]]
--
 - ## 听力刷题
 - C18：
 	- Test1： [[Listening: C18 Test1 Part1]]、 [[Listening: C18 Test1 Part2]]
