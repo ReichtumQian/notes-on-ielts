@@ -1,0 +1,36 @@
+- 「1」Hello?
+- 「2」Oh hello. My name's Jan. Are you the right person to talk to about the Buckworth Conservation Group?
+- 「3」Yes, I'm Peter. I'm the [[Secretary]].
+- 「4」Good. I've just moved to this area, and I'm interested in getting involved. I was in a similar group where I used to live. Could you tell me something about your activities, please?
+- 「5」Of course. Well, we have a mixture of regular activities and special events. One of the regular ones is trying to keep the beach free of [[Litter]].
+- 「6」A few of us spend a couple of hours a month on it, and it's [[Awful]] how much there is to clear. I wish people would be more responsible and take it home with them.
+- 「7」I totally agree. I'd be happy to help with that. Is it OK to take dogs?
+- 「8」I'm afraid not, as they're banned from the beach itself. You can take them along the [cliffs]([[Cliff]]), though. And children are welcome.
+- 「9」Right.
+- 「10」We also manage a nature [[Reserve]], and there's a lot to do there all year round.
+- 「11」For example, because it's a popular place to visit, we spend a lot of time looking after the paths and making sure they're in good condition for walking.
+- 「12」I could certainly help with that.
+- 「13」Good. And we have a program of creating new habitats there.
+- 「14」We’ve just finished making and installing nesting boxes for birds to use, and next we’re going to work on encouraging insects – they’re important for the [[Biodiversity]] of the reserve.
+- 「15」They certainly are.
+- 「16」Oh, and we're also running a project to identify the different species of butterflies that visit the reserve. You might be interested in taking part in that.
+- 「17」Sure. I was involved in something similar where I used to live, counting all the species of moths. I'd enjoy that.
+- 「18」Another job we're doing at the reserve is replacing the wall on the [[Southern]] side, between the parking area and our [[Woodshed]]. It was badly damaged in a storm last month.
+- 「19」OK.
+- 「20」Then as I said, we have a programme of events as well, both at the weekend, and during the week.
+- 「21」Right. I [[Presume]] you have guided walks? I'd like to get to know the local [[Countryside]], as I'm new to the area.
+- 「22」Yes, we do. The next walk is to Ruston Island, a week on Saturday. We'll be meeting in the car park at Dunsmore Beach at low [[Tide]] – that’s when the sands are dry enough for us to walk to the island without getting wet.
+- 「23」Sounds good.
+- 「24」The island's a great place to explore. It's quite small, and it's got a range of habitats. It's also an ideal location for seeing seals just off the coast, or even on the beach.
+- 「25」OK. And is there anything we should bring, like a picnic, for instance?
+- 「26」Yes, do bring one, as it's a full-day walk. And of course it'll be wet walking across and back, so make sure your boots are waterproof.
+- 「27」I must buy a new pair – there’s a hole in one of my current ones! Well, I’d definitely like to come on the walk.
+- 「28」Great. Then later this month we're having a one-day woodwork session in Hopton Wood.
+- 「29」I've never tried that before. Is it OK for beginners to take part?
+- 「30」Definitely. There'll be a couple of experts leading the session, and we keep the number of participants down, so you'll get as much help as you need.
+- 「31」Excellent! I'd love to be able to make chairs.
+- 「32」That's probably too ambitious for one day! You'll be starting with wooden [spoons]([[Spoon]]), and of course learning how to use the tools.
+- 「33」And anything you make is yours to take home with you.
+- 「34」That sounds like fun. When is it?
+- 「35」It’s on the 17th, from 10 a.m. until 3. There’s a charge of £35, including lunch, or £40 if you want to [[Camp]] in the [[Wood]].
+- 「36」I should think I'll come home the same day. Well, I'd certainly like to join the group.
