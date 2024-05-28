@@ -1,0 +1,30 @@
+- 「1」So, hello everyone. My name's Lou Miller and I'm going to be your tour guide today as we take this fantastic boat trip around the Tasmanian coast.
+- 「2」Before we [[Set off]], I just want to tell you a few things about our journey.
+- 「3」Our boats aren't huge as you can see. We already have three staff members on board and [[On top of]] that, we can transport a further fifteen people – that’s you – around the coastline.
+  id:: 66553867-5cca-4ccf-9a45-8fb2ec36e57e
+- 「4」But please note if there are more than nine people on either side of the boat, we'll move some of you over, otherwise all eighteen of us will end up in the sea!
+- 「5」We've recently upgraded all our boats.
+- 「6」They used to be [[Jet]] black, but our new ones now have these comfortable dark red seats and a light-green [[Exterior]] in order to stand out from others and help promote our company.
+- 「7」This gives our boats a rather unique appearance, don't you think?
+- 「8」We offer you a free lunchbox during the trip and we have three types.
+- 「9」Lunchbox 1 contains [[Ham]] and tomato sandwiches. Lunchbox 2 contains a Cheddar cheese roll and Lunchbox 3 is salad-based and also contains eggs and [[Tuna]].
+- 「10」All three lunchboxes also have a packet of [crisps]([[Crisp]]) and chocolate bar inside. Please let staff know which lunchbox you prefer.
+- 「11」I'm sure I don't have to ask you not to throw anything into the sea.
+- 「12」We don't have any [bins]([[Bin]]) to put [[Litter]] in, but Jess, myself or Ray, our other guide, will collect it from you after lunch and put it all in a large plastic [[Sack]].
+- 「13」The engine on the boat makes quite a lot of noise so before we [[Head off]], let me tell you a few things about what you're going to see.
+- 「14」This area is famous for its ancient lighthouse, which you'll see from the boat as we turn past the first little island.
+- 「15」It was built in 1838 to protect [sailors]([[Sailor]]) as a number of [shipwrecks]([[Shipwreck]]) had led to significant loss of life.
+- 「16」The construction itself was [complicated]([[Complicate]]) as some of the original drawings kept by the local [[Council]] show. It sits right on top of the [cliffs]([[Cliff]]) in a very isolated [[Spot]].
+- 「17」In the nineteenth century there were many jobs there, such as [polishing]([[Polish]]) the [[Brass]] [lamps]([[Lamp]]), [chopping]([[Chop]]) firewood and cleaning windows, that kept lighthouse keepers busy.
+- 「18」These workers were mainly prison [convicts]([[Convict]]) until the middle of that century when ordinary families willing to live in such circumstances [took over]([[Take over]]).
+- 「19」Some of you have asked me what creatures we can expect to see.
+- 「20」I know everyone loves the [penguins](Penguin), but they're very shy and, unfortunately, tend to hide from passing boats,
+- 「21」but you might see birds in the distance, such as sea eagles, flying around the cliff edges where they nest.
+- 「22」When we get to the rocky area [inhabited]([[Inhabit]]) by [[Fur]] [seals]([[Seal]]), we'll stop and watch them swimming around the coast.
+- 「23」They're [[Inquisitive]] creatures so don't be surprised if one pops up right in front of you.
+- 「24」Their predators, [[Orca]] whales, hunt along the coastline too, but [spotting]([[Spot]]) one of these is rare.
+- 「25」[Dolphins]([[Dolphin]]), on the other hand, can sometimes approach on their own or in groups as they ride the waves beside us.
+- 「26」Lastly, I want to mention the caves. Tasmania is famous for its caves and the ones we'll pass by are so amazing that people are lost for words when they see them.
+- 「27」They can only be approached by sea, but if you feel that you want to see more than we're able to show you, then you can take a [[Kayak]] into the area on another day and one of our staff will give you more information on that.
+- 「28」What we'll do is to go through a narrow channel, past some incredible rock formations and from there we'll be able to see the openings to the caves,
+- 「29」and at that point we'll talk to you about what lies beyond.

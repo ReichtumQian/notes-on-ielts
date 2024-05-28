@@ -18,7 +18,7 @@
 - C18：
 	- Test1： [[Listening: C18 Test1 Part1]]、 [[Listening: C18 Test1 Part2]]
 - C17：
-	- Test1： [[Listening: C17 Test1 Part1]]
+	- Test1： [[Listening: C17 Test1 Part1]]、 [[Listening: C17 Test1 Part2]]
 - ## 写作刷题
 - 由 GPT4 生成范文样例
 - [[Writing: 父母过于溺爱的后果]]

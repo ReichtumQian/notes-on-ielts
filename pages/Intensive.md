@@ -1,3 +1,5 @@
 is:: word
 
-- adj. 集约的
+- adj. 加强的
+-
+- 其他形式： [[Intension]]
