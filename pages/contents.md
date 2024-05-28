@@ -14,6 +14,7 @@
 	- Test1： [[Reading: C18 Test1 Passage1]]、 [[Reading: C18 Test1 Passage2]]、 [[Reading: C18 Test1 Passage3]]
 - C17：
 	- Test1： [[Reading: C17 Test1 Passage1]]、 [[Reading: C17 Test1 Passage2]]、 [[Reading: C17 Test1 Passage3]]
+	- Test2： [[Reading: C17 Test2 Passage1]]
 - ## 听力刷题
 - C18：
 	- Test1： [[Listening: C18 Test1 Part1]]、 [[Listening: C18 Test1 Part2]]
