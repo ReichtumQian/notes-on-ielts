@@ -19,6 +19,7 @@
 	- Test1： [[Listening: C17 Test1 Part1]]、 [[Listening: C17 Test1 Part2]]
 - ## 写作刷题
 -
+- 小作文： [[SIMON 小作文4]]
 -
 - ## 口语刷题
 -
