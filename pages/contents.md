@@ -5,7 +5,7 @@
 - 技巧总结：[[雅思阅读技巧总结]]、[[雅思写作技巧总结]]
 - ## 知识积累
 - 单词、词组、句式：见 [[word]]、 [[phrase]]、 [[word categorization]]
-- 写作常用表达：见 [[useful expression]]
+- 写作常用表达： [[expression]]
 - ## 阅读刷题
 - C18：
 	- Test1： [[Reading: C18 Test1 Passage1]]、 [[Reading: C18 Test1 Passage2]]、 [[Reading: C18 Test1 Passage3]]
@@ -18,8 +18,7 @@
 - C17：
 	- Test1： [[Listening: C17 Test1 Part1]]、 [[Listening: C17 Test1 Part2]]
 - ## 写作刷题
--
 - 小作文： [[SIMON 小作文4]]
--
+- 大作文：[[Writing: C17 Test1 Task2]]
 - ## 口语刷题
 -
