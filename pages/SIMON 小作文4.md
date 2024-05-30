@@ -2,6 +2,11 @@
   chatting on the Internet and playing on games [consoles]([[Console]]) on an average
   school day in the UK.
 - ![image.png](../assets/image_1716971478256_0.png)
+- ## 练习
+-
+-
+-
+- ## 范文
 - 改写段：
 - The bar chart compares the time spent by 10 to 15-year-olds in the UK on
   two activities, [[Namely]] chatting online and playing computer games.
