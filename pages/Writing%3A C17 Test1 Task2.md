@@ -1,3 +1,5 @@
+topic:: education
+
 - 题目：It is important for people to take risks, both in their professional lives and their personal lives. Do you think the advantages of taking risks [[Outweigh]] the disadvantages? Give reasons for your answer and include any relevant examples from your own knowledge or experience.
 - ## GPT 范文
 - In the dynamic landscape of today's world, the concept of risk-taking has become an [[Integral]] part of both professional and personal [spheres]([[Sphere]]). This essay argues that the advantages of taking risks, when done [[Judiciously]], significantly outweigh the disadvantages, primarily because it [fosters]([[Foster]]) innovation, personal growth, and [[Resilience]].
@@ -16,8 +18,6 @@
 - [[It is crucial to acknowledge that]]
 - In conclusion, while risk-taking inherently involves the possibility of encountering negative outcomes, the potential for innovation, personal growth, and resilience it brings significantly surpasses these disadvantages. By embracing a balanced approach to risk-taking, individuals can unlock new opportunities and experiences that would remain inaccessible through a more conservative stance.
 - 总之，虽然冒险本质上涉及遇到负面结果的可能性，但它带来的创新、个人成长和韧性潜力显著超过了这些缺点。通过采取平衡的冒险方式，个人可以解锁通过更保守的立场无法接触到的新机会和体验。
-- ## 练习
-- 在当今世界的动态格局中，冒险的概念已成为专业和个人领域不可或缺的一部分。
+- ## 表达整理
 - In the dynamic landscape of today's world, the concept of risk-taking has became an integral part of professional and personal spheres.
-- 本文认为
-- This essay argues that
+- This essay argues that the advantages of taking risks, when done [[Judiciously]], significantly outweigh the disadvantages, primarily because it [fosters]([[Foster]]) innovation, personal growth, and [[Resilience]].

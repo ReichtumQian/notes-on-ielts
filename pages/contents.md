@@ -7,10 +7,10 @@
 	- 阅读、听力：在做完题后精读文章，整理词汇、词组。
 	- 口语、写作：
 		- 平时写作注意修改：当自己写作文时，觉得某个表达不好的话尝试寻找替代方案并积累
-		- 范文阅读：整理范文中的好表达进行积累，每篇范文后中译英练习
+		- 范文阅读：整理范文中的好表达进行积累，每篇范文后整理好句子
 - ## 知识积累
 - 单词、词组、句式：见 [[word]]、 [[phrase]]、 [[word categorization]]
-- 口语、写作表达整理： [[expression]]
+- 口语、写作表达整理：
 - ## 阅读刷题
 - C18：
 	- Test1： [[Reading: C18 Test1 Passage1]]、 [[Reading: C18 Test1 Passage2]]、 [[Reading: C18 Test1 Passage3]]
@@ -24,6 +24,7 @@
 	- Test1： [[Listening: C17 Test1 Part1]]、 [[Listening: C17 Test1 Part2]]
 - ## 写作刷题
 - 小作文： [[SIMON 小作文4]]
+	- C17： [[Writing: C17 Test1 Task1]]、 [[Writing: C17 Test3 Task1]]
 - 大作文：[[Writing: C17 Test1 Task2]]
 - ## 口语刷题
 -

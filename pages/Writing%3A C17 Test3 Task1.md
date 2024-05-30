@@ -1,0 +1,3 @@
+- The chart below gives information about how families in one country spent their weekly income in 1968 and in 2018. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+- ![image.png](../assets/image_1717036509305_0.png)
+-
