@@ -1,5 +1,6 @@
 ## 雅思学习方法与资源
 - 学习顺序：【阅读+听力】-> 【写作】 -> 【口语】
+- 学习计划：每天【2 听力】+【1 写作仿写或者写作方法论】+【口语】
 - 资料：
 	- 刷题：雅思哥
 - 雅思应试技巧：[[雅思阅读技巧总结]]、[[雅思写作技巧总结]]、[[雅思口语技巧总结]]
@@ -12,7 +13,7 @@
 		- 重点是一定要动笔写！！
 	- 口语：
 		- 多积累：
-		- 长期目标：慢慢地将平日用到的中文全部切换为英语。
+		- 长期目标：
 		-
 - ## 知识积累
 - 单词、词组、句式：见 [[word]]、 [[phrase]]、 [[word categorization]]
@@ -28,7 +29,7 @@
 - C18：
 	- Test1： [[Listening: C18 Test1 Part1]]、 [[Listening: C18 Test1 Part2]]
 - C17：
-	- Test1： [[Listening: C17 Test1 Part1]]、 [[Listening: C17 Test1 Part2]]、 [[Listening: C17 Test1 Part3]]
+	- Test1： [[Listening: C17 Test1 Part1]]、 [[Listening: C17 Test1 Part2]]、 [[Listening: C17 Test1 Part3]]、 [[Listening: C17 Test1 Part4]]
 - ## 写作刷题
 - 小作文：
 	- SIMON 作文：[[SIMON 小作文4]]
