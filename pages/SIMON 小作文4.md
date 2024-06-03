@@ -4,23 +4,13 @@
 - ![image.png](../assets/image_1716971478256_0.png)
 - ## 练习
 - 改写段：
-	- 换词：
-		- show -> [[Present]]、Display、 [[Illustrate]]、 [[Outline]]、 [[Demonstrate]]
-		- time -> [[Duration]]
-		- spend -> [[Allocate]]、 [[Dedicate]]
-	- 概述：two activities
-	- 例句：The pie chart presented illustrates the duration 10 to 15-year-old in the UK dedicate to two activities.
-	  id:: 6657e71d-252c-4fcf-b019-8e41fb75734d
+- The bar chart illustrates the time spent by 10 to 15-year-olds aged 10 to 15 on two activities: chatting online and playing computer games.
 - 概述段：
-	- 整体而言： [[Overall]]、 [[In general]]、 [[Broadly speaking]]、It can be generally observed
-	- 略微： [[Marginally]]、 [[Slightly]]
-	- 更喜欢： [[Prefer]]、more [[Favor]]
-	- 转折： [[Nevertheless]]、 [[Yet]]
-	- 发现： [[Emerge]]、 [[Delve]]、 [[Reveal]]
-	- 例句：Broadly speaking, playing on games console appears to be slightly more preferred than chatting on the internet. Nevertheless, when we focus on the gender-specific data, we reveal distinct trends.
-- 细节段1（Boys）：
-- 细节段2（Girls）
--
+- Overall, the data reveals that playing computer games is slightly more preferred than chatting online among these teenagers. Nevertheless, distinct patterns emerge when we examine the behavior of boys and girls seperately.
+- 细节段1：
+- Boys aged 10 to 15 shows a clear preference for playing computer game over chatting online. According to the chart, 85% of boys engage in gaming daily
+- 细节段2：
+- In contrast, girls in the same age group
 - ## 范文
 - 改写段：
 - The bar chart compares the time spent by 10 to 15-year-olds in the UK on
