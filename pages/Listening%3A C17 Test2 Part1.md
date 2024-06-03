@@ -1,0 +1,55 @@
+- 「1」Hello? Jane Fairbanks speaking.
+- 「2」Oh, good morning. My name's Frank Pritchard.
+- 「3」I've just [retired]([[Retire]]) and moved to Southoe. I'd like to become a volunteer，and I gather you co-ordinate voluntary work in the village.
+- 「4」That's right
+- 「5」What sort of thing could I do?
+- 「6」Well, we need help with the village library. We borrow books from the town library, and individuals also donate them.
+- 「7」So, one thing you could do is get involved in collecting them if you’ve got a car, that is.
+- 「8」Yes, that's no problem.
+- 「9」The times are pretty flexible so we can arrange it to suit you. Another thing is the records that we keep of the books we're given,.
+- 「10」and those we borrow and need to return to the town library. It would be very useful to have another person to help keep them up to date
+- 「11」Right. I'm used to working on a computer I [[Presume]] they’re computerized?
+- 「12」Oh yes.
+- 「13」Is the library purpose-built? I haven’t noticed it when I’ve walked round the village
+- 「14」No, we simply have the use of a room in the village [[Hall]], the West Room. It's on the left as you go in.
+- 「15」I must go and have a look inside the hall.
+- 「16」Yes, it's a nice building.
+- 「17」Do you run a lunch club in the village for [[Elderly]] people? I know a lot of places do.
+- 「18」Yes, we have a very successful club.
+- 「19」I could help with transport, if that’s of any use.
+- 「20」Ooo definitely. People come to the club from neighboring villages, and we’re always in need of more drivers.
+- 「21」And does the club have groups that focus on a particular hobby, too?
+- 「22」I could get involved in one or two, particularly if there are any art groups.
+- 「23」Excellent. I'll find out where we need help and get back to you.
+- 「24」Fine. What about help for individual [residents]([[Resident]]). Do you arrange that at all?
+- 「25」Yes, we do it as a one-off. In fact, there’s Mrs. Carroll. She needs a [[Lift]] to the hospital next week,
+- 「26」and we're struggling to find someone.
+- 「27」When's her [[Appointment]]?
+- 「28」On Tuesday. It would take the whole morning.
+- 「29」I could do that.
+- 「30」Oh, that would be great. Thank you.
+- 「31」And also, next week, we're arranging to have some work done to Mr. Salisbury ’s house before he moves, as he isn’t healthy enough to do it himself.
+- 「32」We've got some people to [[Decorate]] his kitchen, but if you could do some [weeding]([[Weed]]) in his garden, that would be wonderful.
+- 「33」OK. I'd enjoy that. And presumably the day and time are flexible.
+- 「34」Oh yes. Just say when would suit you best, and we'll let Mr Selsbury know.
+- 「35」Good.
+- 「36」The volunteers group also organizes monthly social events, which is a great way to meet other people, of course.
+- 「37」Uhuh.
+- 「38」So next month, on the 19th of October, we're holding a quiz a couple of residents are great at planning unusual ones, and we always fill the village hall.
+- 「39」That sounds like fun. Can I do anything to help?
+- 「40」Well, because of the number of people, we need plenty of [refreshments]([[Refreshment]]) for halfway through. So, if you could provide any, we'd be grateful..
+- 「41」I'm sure I could. I'll think about what to make, and let you know.
+- 「42」Thank you. Then on November the 18th, we're holding a dance, also in the village hall.
+- 「43」We've booked a [[Band]] that specializes in music of the 1930s they’ve been before, and we’ve had a lot of requests to bring them back.
+- 「44」I'm not really a dancer, but I’d like to do something to help.
+- 「45」Well, we sell tickets in advance, and having an extra person to check them at the door, as people arrive, would be good it can be quite a bottleneck if everyone arrives at once!
+- 「46」OK, I'm happy with that.
+- 「47」We're also arranging a New Year’s Eve party.
+- 「48」We're expecting that to be a really big event, so instead of the village hall, it'll be held in the Mountfort Hotel.
+- 「49」The ...？
+- 「50」Mountfort. M-O-U-N-T-F-O-R-T Hotel. It isn’t in Southoe itself, but it’s only a couple of miles away
+- 「51」The hotel will be providing dinner and we've booked a band.
+- 「52」The one thing we haven’t got yet is a [[Poster]] That isn’t something you could do, by any chance, is it?
+- 「53」Well actually, yes. Before I retired I was a graphic designer, so that’s right up my street.
+- 「54」Oh perfect! I'll give you the details, and then perhaps you could send me a draft
+- 「55」Of course.
