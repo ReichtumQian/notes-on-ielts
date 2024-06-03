@@ -8,9 +8,9 @@
 - 概述段：
 - Overall, the data reveals that playing computer games is slightly more preferred than chatting online among these teenagers. Nevertheless, distinct patterns emerge when we examine the behavior of boys and girls seperately.
 - 细节段1：
-- Boys aged 10 to 15 shows a clear preference for playing computer game over chatting online. According to the chart, 85% of boys engage in gaming daily
+- Boys aged 10 to 15 shows a clear preference for playing computer game over chatting online. According to the chart, 85% of boys engage in gaming daily, while only 55% chat online everyday. Additionally, most of boys spend more than an hour playing games, with 10% dedicating four hours or more to this activity.
 - 细节段2：
-- In contrast, girls in the same age group
+- In contrast, girls in the same age group tend to favor chatting on the internet. Nearly 70% of girls engage in online conversation daily compared to about 50% who play computer games. Among the girls who do play games, the majority spend less than an hour on this activity. On the other hand, most girls who chat online do so for over an hour, with nearly 10% spending four hours or more on online conversations.
 - ## 范文
 - 改写段：
 - The bar chart compares the time spent by 10 to 15-year-olds in the UK on
