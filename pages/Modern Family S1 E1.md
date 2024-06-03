@@ -1,0 +1,13 @@
+-
+- would you get them? 把他们叫下来好吗
+- Just a sec.  等一下
+- Why are you guys yelling at us when we're way upstairs?
+	- way 强调距离远
+- You're not wearing that [[Outfit]]. 你不能穿这套衣服出门
+- Luke got his head stuck in the [[Bannister]] again.
+- It's on our bedside tab- I don't know. Find it.
+- I was [[Out of control]] growing up. 我在成长期间简直无法无天
+- Don't let him- Kick it! 别让他 踢啊
+- He [tripped]([[Trip]]) him, Jay. Where's the penalty? 他下绊子
+- Let's take it down a notch.
+- Oh, she's [[Adorable]]. - Oh, thank you.
