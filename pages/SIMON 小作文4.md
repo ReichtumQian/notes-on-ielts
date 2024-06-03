@@ -4,7 +4,7 @@
 - ![image.png](../assets/image_1716971478256_0.png)
 - ## 练习
 - 改写段：
-- The bar chart illustrates the time spent by 10 to 15-year-olds aged 10 to 15 on two activities: chatting online and playing computer games.
+- The bar chart illustrates the time spent by teenagers aged 10 to 15 on two activities: chatting online and playing computer games.
 - 概述段：
 - Overall, the data reveals that playing computer games is slightly more preferred than chatting online among these teenagers. Nevertheless, distinct patterns emerge when we examine the behavior of boys and girls seperately.
 - 细节段1：
