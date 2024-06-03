@@ -9,5 +9,17 @@
 - I was [[Out of control]] growing up. 我在成长期间简直无法无天
 - Don't let him- Kick it! 别让他 踢啊
 - He [tripped]([[Trip]]) him, Jay. Where's the penalty? 他下绊子
-- Let's take it down a notch.
+- Let's take it down a [[Notch]].
+- He spent the first half with his hand in his [[Pants]]!
 - Oh, she's [[Adorable]]. - Oh, thank you.
+- I've wanted to tell her off for the last six weeks. 那话我6周来一直想对她说来着
+- She's an angel. You and your wife must be [thrilled]([[Thrill]]).
+- Daddy needed [snacks]([[Snack]]). 老爹去买点心了
+- Hear this. Love knows no [[Race]], [[Creed]]
+- I'm just gonna say it. He needs to be checked by a [[Specialist]].
+- Because you guys are just going to [[Embarrass]] me again.
+- Sweetie, [[Hang on]] a second
+- You're 15, and it's the first time you've had a boy over.
+- I'm bound to be a little surprised,
+- Luke just shot me! - I didn't [[Mean]] to.
+-
