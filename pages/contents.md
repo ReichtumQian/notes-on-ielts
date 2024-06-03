@@ -12,9 +12,9 @@
 		- 多练习：熟练了以后多动笔刷题
 		- 重点是一定要动笔写！！
 	- 口语：
-		- 多积累：
-		- 长期目标：
-		-
+		- 应试：准备话题
+		- 提高硬实力：看美剧并做笔记，建议
+			- [Modern Famaily](https://www.bilibili.com/video/BV1Y14y1G7Ph/)：[字幕](https://www.123pan.com/s/plj7Vv-xH223.html)
 - ## 知识积累
 - 单词、词组、句式：见 [[word]]、 [[phrase]]、 [[word categorization]]
 - 写作表达整理：
