@@ -14,6 +14,7 @@
 - 写作：[100 句翻译](https://www.123pan.com/s/plj7Vv-vA223.html)。
 	- 先自己翻译一遍，然后让 GPT 修改，保留自己原先的翻译以及修改错误的版本，并学习 GPT 的例句。
 - 口语：
+	- 英语情景剧： [[English Conversation]]
 	- 跟读【杨帅教你 900 句口语】、[杨帅教你900句音频](https://app8tmuj6dd3979.h5.xiaoeknow.com/p/course/column/p_616e23d5e4b0fcb77529d511)、[[杨帅教你 900 句口语笔记]]
 - 听力：有空听听英语视频即可，不用特别训练
 - ## 阅读刷题
