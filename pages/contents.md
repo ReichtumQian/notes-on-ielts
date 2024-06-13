@@ -3,6 +3,8 @@
   logseq.order-list-type:: number
 - 情景剧：
   logseq.order-list-type:: number
+- 词汇：每天阅读 GRE 文章
+  logseq.order-list-type:: number
 -
 - ## 雅思技巧
 - 雅思应试技巧：[[雅思阅读技巧总结]]、[[雅思写作技巧总结]]、[[雅思口语技巧总结]]
