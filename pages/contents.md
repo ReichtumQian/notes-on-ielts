@@ -1,9 +1,9 @@
 ## 当前学习方案
 - 杨帅教你 900 句：跟读、背诵、学习语法和词汇（每天一章）
   logseq.order-list-type:: number
-- 情景剧：
+- 口语：每天背诵一篇杨帅的真题素材，在nvpy面前回答
   logseq.order-list-type:: number
-- 词汇：每天阅读 GRE 文章
+- 词汇：每天刷 GRE，1 Section 的填空题 + 1 Section 数学题 + 1 篇阅读
   logseq.order-list-type:: number
 -
 - ## 雅思技巧
@@ -25,25 +25,10 @@
 	- 英语情景剧： [[English Conversation]]
 	- 跟读【杨帅教你 900 句口语】、[杨帅教你900句音频](https://app8tmuj6dd3979.h5.xiaoeknow.com/p/course/column/p_616e23d5e4b0fcb77529d511)、[[杨帅教你 900 句口语笔记]]
 - 听力：有空听听英语视频即可，不用特别训练
-- ## 阅读刷题
-- C18：
-	- Test1： [[Reading: C18 Test1 Passage1]]、 [[Reading: C18 Test1 Passage2]]、 [[Reading: C18 Test1 Passage3]]
-- C17：
-	- Test1： [[Reading: C17 Test1 Passage1]]、 [[Reading: C17 Test1 Passage2]]、 [[Reading: C17 Test1 Passage3]]
-	- Test2： [[Reading: C17 Test2 Passage1]]
-- ## 听力刷题
-- C18：
-	- Test1： [[Listening: C18 Test1 Part1]]、 [[Listening: C18 Test1 Part2]]
-- C17：
-	- Test1： [[Listening: C17 Test1 Part1]]、 [[Listening: C17 Test1 Part2]]、 [[Listening: C17 Test1 Part3]]、 [[Listening: C17 Test1 Part4]]、 [[Listening: C17 Test2 Part1]]
-- ## 写作刷题
-- 小作文：
-	- SIMON 作文：[[SIMON 小作文4]]
-	- C17： [[Writing: C17 Test1 Task1]]、 [[Writing: C17 Test3 Task1]]
-- 大作文：[[Writing: C17 Test1 Task2]]
-- ## 口语练习
-- Modern Family
-	- S1： [[Modern Family S1 E1]]
+- ## 刷题记录
+- [[IELTS 刷题记录]]
+- [[GRE 刷题记录]]
+-
 -
 -
 -
