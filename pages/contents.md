@@ -1,5 +1,5 @@
 ## 当前学习方案
-- 杨帅教你 900 句：跟读、背诵、学习语法和词汇
+- 杨帅教你 900 句：跟读、背诵、学习语法和词汇（每天一章）
   logseq.order-list-type:: number
 - 情景剧：
   logseq.order-list-type:: number
