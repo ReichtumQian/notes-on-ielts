@@ -1,0 +1,16 @@
+- What's your favorite color?
+-
+- Well, there are many colors that I really like, including blue, green, black, red, and yellow. But if I had to pick a favorite, I suppose, and should be red because it's considered to be the most [[Auspicious]] color in China, and also it's associated with happiness. Everybody wants to be happy. I want to be happy. So that's why red is my favorite color.
+-
+- Do you like dark colors?
+-
+- Well, like I said just now, I like black and brown. Did I say I like black and brown? I don't really remember, so yeah, I guess I do like dark colors, but just not as much as bright colors, You know, sometimes when I go shopping, if I see a dark green or dark blue piece of clothing, if it looks beautiful, I will buy it. So it doesn't matter if it's that dark. I don't, I don't really care.
+-
+- Are there any colors you dislike?
+-
+- Perhaps green, especially if it's a green hat, I don't like it because in China in our culture, green hats are associated with infidelity. If I wore a green hat, it would mean that my girlfriend had cheated on me, and that wouldn't be very good, right?
+-
+- Do you usually wear clothes in your favorite color?
+-
+- Well, I have many favorite colors, there's not one color that I like the most, so yeah, I don't really know how to answer this question, I wear clothes of various colors and I love a wide range of colors.
+-

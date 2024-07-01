@@ -3,11 +3,13 @@
 - [考试机经](https://www.123pan.com/s/plj7Vv-J4223.html)
 -
 - ## 阅读刷题
-- [[GRE 阅读 Passage1]]
--
+- [[GRE 阅读 Passage1]]、[[GRE 阅读 Passage2]]
 -
 -
 - ## 填空刷题
+- [[GRE 填空 Section1]]
+-
+-
 -
 - ## 数学刷题
 -

@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["contents" "word categorization" "word"]
+ :favorites ["GRE 刷题记录" "contents" "word" "phrase" "word categorization" "英语语法"]
 
  ;; Set flashcards interval.
  ;; Expected value:
