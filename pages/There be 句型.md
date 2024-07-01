@@ -1,0 +1,12 @@
+-
+- There be 句型是一种全部倒装句，表示【客观上的存在】
+-
+- ## 变形
+- `There has been`：表示过去到现在一直有
+- `There will be`：表示未来将有
+-
+- ## 例句
+- `There is` a girl. （原形式为 A girl is there）
+-
+-
+-
