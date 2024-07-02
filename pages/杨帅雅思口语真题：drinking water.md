@@ -1,0 +1,11 @@
+- How often do you drink water?
+-
+- Really, how often do I drink water? Oh my God, this is probably the weirdest IELTS speaking question I've ever heard. I don't know, you know, it's said that it's best to drink 8 [glasses]([[Glass]]) of water every day, but I don't suppose I can hit that number. I guess I only drink like 6 or five glasses in a day. I guess I drink water every two hours. I really have no idea.
+-
+- What kinds of water do you like to drink?
+-
+- I don't know what you mean, what kinds of water? Well, okay, let me put it this way I'm crazy about working out and I do physical exercise every single day. I run on the [[Treadmill]], I go to the gym to [[Lift]] weight, and sometimes when I do these things, I usually have a bottle of energy drink ready. You know, energy drink is probably one kind of water. I'm not sure whether it's the kind or the [bands]([[Band]]) you're looking for, and also every morning after getting up, I make myself a cup of coffee. I am a big [[Admirer]] of coffee, so in the morning it's a great picking up for me.
+-
+- Do you prefer bottled water or water from water machines?
+-
+- Oh my God, you mean water [fountains]([[Fountain]])? Honestly, I don't care as long as it's water, it's good.
