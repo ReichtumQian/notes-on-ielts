@@ -1,0 +1,17 @@
+-
+- Do you like cooking?
+-
+- Well, I don't like cooking, but I have no choice but to do it once in a while because sometimes if I don't feel like eating out, and also if I don't want to order food on, you know, the most popular [[Takeaway]] apps in China, I just, I just cook at home and most of the time I just make myself a salad, a vegetable salad. It's low in [calories]([[Calory]]), low in salt, and it's pretty healthy. I'm a very health [[Conscious]] person, so a salad will be really good.
+-
+- Have you ever cooked?
+-
+- Yeah, like I said, just now, I cook every now and then, so of course I've cooked before, and the last time I made something at home was actually just a couple days ago. I cooked, What did I cook? I don't remember what it was, it was just a salad. Like I said, I make some salads from time to time.
+-
+- Do you want to learn how to cook?
+-
+- Oh my goddess, you're all about cooking, so no, I don't, I can cook some basic dishes. And I think that that is enough. That is already pretty good for me, because if I want to eat some different kinds of food, I will just go and find a good restaurant. I don't trust my own cooking skills.
+-
+- Is it difficult to cook Chinese food?
+-
+- It really depends what dish we are talking about if we are talking about. Some of the most basic, traditionally homemade dishes like [scrambled]([[Scramble]]) eggs with tomatoes, then it's not super difficult. It's just a walk in the park. However, if we are talking about [[Gourmet]] food, some [dishes]([[Dish]]) that are only served in [[Upscale]] restaurants, no, it's extremely difficult and it's absolutely [[No picnic]].
+-
