@@ -1,0 +1,20 @@
+-
+- Have you ever tried foreign food?
+-
+- Oh, yeah, absolutely. I mean, everybody has in China, where maybe those people in the remotest places haven't tried foreign food, but people living in cities or living in, or even those living in the countryside have definitely tried some kinds of foreign food because fast food is foreign food, right, is from the United States. So a lot of people enjoy eating McDonald's or KFC or Burger King. I used to be a huge fan of those things, burgers, sandwiches, hot dogs, French fries, and so on. But then later I learned that they were high in fat and salt and it wasn't healthy, so I stopped eating them, but now I still love to eat sushi, which is from Japan. I eat it at least twice a week. It's my favorite kind of food.
+- id:: 66869368-4513-47f9-bd77-2f7a098c6312
+- Do you like to try new food?
+-
+- Yeah, I guess so. I mean, whenever someone invites me out to dinner, if this person says that we're going to try out some new kind of food that I've never had before, I usually feel pretty excited. You know, I feel really [thrilled]([[Thrill]]) about it. Because, yeah, I mean, trying out new things is always like a challenge and an opportunity to learn more, to know more, to explore the world. So it's [[Fantastic]]. 
+  id:: 6686940d-2047-4032-babd-c592322bf23b
+-
+- What kinds of new food have you tried recently?
+-
+- Recently, God, I'm sorry I'm under so much pressure now, so my mind is on the freeze. I don't suppose I can think of anything new that I tried recently. I'm so sorry
+-
+- Is foreign food popular in your country?
+-
+- I think so, yeah, it is pretty popular and it's getting increasingly popular. Fast food has been in China for 20, 30 years already and sushi has been around for a long time, everybody loves it, what else? [[Spaghetti]], [[Pasta]], yeah, everything. There are so many kinds of popular foreign food and everybody loves eating them.
+-
+-
+-
