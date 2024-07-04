@@ -7,7 +7,7 @@
 -
 -
 - ## 填空刷题
-- [[GRE 填空 Section1]]
+- [[GRE 填空 Section1]]、 [[GRE 填空 Section2]]
 -
 -
 -
