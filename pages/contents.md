@@ -1,9 +1,9 @@
 ## 当前学习方案
-- 杨帅教你 900 句：跟读、背诵、学习语法和词汇（每天一章）
-  logseq.order-list-type:: number
-- 口语：每天背诵一篇杨帅的真题素材
+- 口语以及表达：每天【跟读、背诵】一篇杨帅的真题素材；每天【跟读、背诵、复习】杨帅教你 900 句。
   logseq.order-list-type:: number
 - 词汇：每天刷 GRE，1 Section 的填空题 + 1 Section 数学题 + 1 篇阅读
+  logseq.order-list-type:: number
+- 听力：看 `Youtube` 全英视频，每天感受英语母语者的正常语速。
   logseq.order-list-type:: number
 -
 - ## 知识积累
