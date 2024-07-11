@@ -1,8 +1,12 @@
 ## 当前学习方案
 - 口语以及表达：每天【跟读、背诵】一篇杨帅的真题素材；每天【跟读、背诵、复习】杨帅教你 900 句。
   logseq.order-list-type:: number
-- 词汇：每天刷 GRE，1 Section 的填空题 + 1 Section 数学题 + 1 篇阅读
+- 词汇：对标 GRE 词汇
   logseq.order-list-type:: number
+	- 留点印象：有空用背单词的 APP 背一些单词，有空就背，不强求每日完成多少
+	  logseq.order-list-type:: number
+	- 刷 GRE 题目：
+	  logseq.order-list-type:: number
 - 听力：看 `Youtube` 感兴趣的全英视频，或者【一点英语】上的短视频，每天感受英语母语者的正常语速。
   logseq.order-list-type:: number
 	- 精听：推荐用一点英语的逐句精听，完全听懂了能自己说出来了再继续，把不会的知识点摘出来整理好
