@@ -1,0 +1,22 @@
+-
+- Do you live in a house or an apartment?
+-
+- Well, I live in an apartment, and it's a pretty small one I just began [renting]([[Rent]]) it in three months ago.
+-
+- How long have you lived there?
+-
+- Three months. I said that I've been living there for three months.
+-
+- Do you like where you live?
+-
+- Well, I don't know. I really want to say that I like it because it is a new apartment. And like I said just now, I've only been living there for three months, but there is certainly a very big problem with this apartment that I'm living in. It's quite [cramped]([[Cramp]]), you know, or maybe a much Better work to describe it. It would be tiny, is forty, forty square meters in size. And I have a small living room and a tiny bedroom. That's all. This is only because I have just graduated from university and I don't make much money, so I can barely make any meat. And this is the the only thing I can afford now.
+-
+- Will you live there for a long time?
+-
+- I hope not, because I'm not a big fan of this apartment, this really small apartment. So I hope that in a few years time, in a year or two, I can earn a bigger salary, and in that case, I will be able to afford a much bigger apartment.
+-
+- What did you like the most about the house we grow up in?
+-
+- Oh, it was huge. I mean, compared with the apartment that I am living in right now, it was a giant, massive place. You know, my parents and I lived in the northeastern [[Suburb]] of Beijing, and we lived in a big house. We had a huge yard, and I remember always running around in the yard having a lot of fun with my parents and with my little friends. So yeah, that was what I like the most about it.
+-
+-
