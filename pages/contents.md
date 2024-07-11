@@ -5,7 +5,7 @@
   logseq.order-list-type:: number
 - 听力：看 `Youtube` 感兴趣的全英视频，或者【一点英语】上的短视频，每天感受英语母语者的正常语速。
   logseq.order-list-type:: number
-	- 精听：推荐用一点英语的逐句精听，完全听懂了再继续，把不会的知识点摘出来整理好
+	- 精听：推荐用一点英语的逐句精听，完全听懂了能自己说出来了再继续，把不会的知识点摘出来整理好
 	  logseq.order-list-type:: number
 	- 泛听：`Youtube` 上随便听
 	  logseq.order-list-type:: number
