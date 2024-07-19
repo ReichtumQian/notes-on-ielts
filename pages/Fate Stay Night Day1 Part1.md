@@ -4,13 +4,13 @@
   battlefield from a movie.
   ―――But that didn't last long either.
   The fire had died down by the time the sun rose.
-  The tall wall of flame had shortened, and most of the buildings had
+  The tall wall of flame火焰 had shortened, and most of the buildings had
   fallen.
   ...It felt strange, being the only thing in that place that still had its
   original form.
   I was the only one still alive around here.
   I must have been really lucky, or my house was built in a very lucky
-  spot.
+  spot位置.
   I don't know which it was, but the point is, I was the only one left alive.
   I felt that since I survived, I should live on.
   I started walking aimlessly, because I thought it would be dangerous just
@@ -20,24 +20,24 @@
   ...Probably because, over and above not wanting to be like them, I had a
   stronger feeling in my mind.
   But still, I had no hope.
-  It was already a wonder I was still alive, so I couldn't expect to be
+  It was already a wonder奇迹 I was still alive, so I couldn't expect to be
   saved.
   I won't survive.
   Whatever happens, I won't be able to escape from this red world.
   It was such an absolute hell that even a small child could understand it.
-  And I collapsed.
+  And I collapsed倒下.
   Was it because there was no air? Was it because no function was left in
   my body?
 - Anyway, I collapsed and stared up at the clouded sky.
   Everything around me was burned up and I could see many shriveled
   people.
-  The dark clouds loomed overhead, telling me it would rain soon.
+  The dark clouds loomed朦胧地现出 overhead, telling me it would rain soon.
   ...That's good. The fire will be put out once it rains.
   In the end, I sighed deeply and looked up at the sky.
   I say to myself that it hurts.
   I say so on behalf of all the people who couldn't even say so.
   ―――That was ten years ago.
-  After that, I was miraculously saved.
+  After that, I was miraculously神奇地 saved.
   My body survived.
   But I think all the other things about me burned up and were reduced to
   ashes.
@@ -49,7 +49,7 @@
   My heart died.
   ―――――――――I'm dreaming.
   "――――Huh!?"
-  I squint my eyes at the white light.
+  I squint斜视 my eyes at the white light.
   "So bright", I think.
   It was just light entering my eyes when I woke up, but I'm not used to it.
   I probably didn't even understand what the bright light meant.
@@ -70,9 +70,9 @@
   After a few days, I finally understood.
   I could clearly remember what had happened in the past few days.
   Even so, I was no different from a newborn baby.
-  Not just a metaphor, it was close to the truth.
+  Not just a metaphor隐喻, it was close to the truth.
   Anyway, it was a terrible fire.
-  I had been saved from it, was in the hospital with my body wrapped in
+  I had been saved from it, was in the hospital with my body wrapped包裹 in
   bandages, and my parents were gone.
   I didn't get the situation, but I vaguely understood that I was alone.
   I think I understood quickly.
@@ -83,7 +83,7 @@
   happen to me next.
   He came on the day my bandages were taken off and I was able to eat
   without help.
-  Wrinkled coat and uncombed hair.
+  Wrinkled褶皱的 coat and uncombed蓬乱的 hair.
   The man, a bit younger than the doctor, felt more like a big brother than
   a father.
   "Hello. You must be Shirou-kun."
