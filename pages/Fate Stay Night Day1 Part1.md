@@ -4,7 +4,7 @@
   battlefield from a movie.
   ―――But that didn't last long either.
   The fire had died down by the time the sun rose.
-  The tall wall of flame火焰 had shortened, and most of the buildings had
+  The tall wall of [[Flame]] had shortened, and most of the buildings had
   fallen.
   ...It felt strange, being the only thing in that place that still had its
   original form.
@@ -31,13 +31,13 @@
 - Anyway, I collapsed and stared up at the clouded sky.
   Everything around me was burned up and I could see many shriveled
   people.
-  The dark clouds loomed朦胧地现出 overhead, telling me it would rain soon.
+  The dark clouds [[Loom]] overhead, telling me it would rain soon.
   ...That's good. The fire will be put out once it rains.
   In the end, I sighed deeply and looked up at the sky.
   I say to myself that it hurts.
   I say so on behalf of all the people who couldn't even say so.
   ―――That was ten years ago.
-  After that, I was miraculously神奇地 saved.
+  After that, I was [[miraculously]] saved.
   My body survived.
   But I think all the other things about me burned up and were reduced to
   ashes.
@@ -49,7 +49,7 @@
   My heart died.
   ―――――――――I'm dreaming.
   "――――Huh!?"
-  I squint斜视 my eyes at the white light.
+  I [[Squint]] my eyes at the white light.
   "So bright", I think.
   It was just light entering my eyes when I woke up, but I'm not used to it.
   I probably didn't even understand what the bright light meant.
@@ -83,7 +83,7 @@
   happen to me next.
   He came on the day my bandages were taken off and I was able to eat
   without help.
-  Wrinkled褶皱的 coat and uncombed蓬乱的 hair.
+  [[Wrinkle]] coat and [uncombed]([[Uncomb]]) hair.
   The man, a bit younger than the doctor, felt more like a big brother than
   a father.
   "Hello. You must be Shirou-kun."
