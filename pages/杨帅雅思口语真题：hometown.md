@@ -1,0 +1,13 @@
+-
+- where are you from?
+- I'm from Beijing. I was born and raised here.
+-
+- How long have you been living there?
+- Well, like I said, I was born in Beijing, so I've been living here all my life for 28 years.
+-
+- Do you like your hometown?
+- This is pretty complicated, I don't know, I mean, there are many aspects of my hometown that I really like, but there are also some other things that I'm not a fan of. For example, what I do like about Beijing is that it's a [[Cosmopolitan]] city, so it's dynamic and [[Vibrant]]. No matter what I want to do, I can find an opportunity to do in here. Like for example, I'm young and I have a lot of friends who are also just in their 20s. We like to hit the [[Bar]] on the weekend and there are many areas in Beijing that offer us that kind of opportunity. However, what I don't really like about this city is that the traffic is a nightmare. No matter where you go, you're constantly caught up in traffic. And sometimes because of that, you're just always late for a meeting or appointment or something like that.
+-
+- Have there been any changes in your hometown in recent years?
+- Well, changes. My hometown has been quite fashionable and dynamic, like I said just now, for so many years, ever since I was young, actually. But one change that comes to mind is that I think it's getting increasingly polluted. Of course, the government has been trying to take action to get rid of the pollution, especially the air pollution. But it doesn't seem to me that there has been any [[Progress]]. So that's something I'm quite disappointed with.
+-
