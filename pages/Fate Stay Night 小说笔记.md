@@ -1,3 +1,9 @@
 -
-- [[Fate Stay Night Day1 Part1]]
+- ## 资料
+- [Fate Stay Night Novel](https://www.123pan.com/s/plj7Vv-Eas23.html)
+-
+- ## 笔记
+- [[Fate Stay Night Day1]]
+-
+-
 -

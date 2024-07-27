@@ -1,0 +1,23 @@
+- 叙述黑猩猩的王朝故事
+- We followed their [fortunes]([[Fortune]]) from here on the [plains]([[Plain]]) of Zimbabwe to the [jungles]([[Jungle]]) of India. #card
+- when they are battling against the [odds]([[Odds]]). #card
+- Fighting for survival against the elements and against [rivals]([[Rival]]). #card
+	- elements 表示客观元素，这里可以翻译为天灾
+- Home to a [[Remarkable]] [[Troupe]] of [chimpanzees]([[Chimpanzees]]). #card
+- He's surrounded by rivals prepared to kill him for his [[Crown]]. #card
+- David's （黑猩猩首领） [[Torn]] ears are [[Testament]] to the many battles he's fought. #card
+- Successful alpha males normally have many [allies]([[Ally]]) to support them. #card
+- But David is [[Alone]]. He has never been more [[Vulnerable]]. #card
+- These [chimps]([[Chimp]]) have learned to use [[Grass]] [stems]([[Stem]]) as tools to fish out the [insects]([[Insect]]). #card
+	- 这些猩猩学会了用草棍去收集白蚁吃。
+- But he is [[Wary]], as he must feed [[Alongside]] old [enemies]([[Enemy]]). #card
+- He knows two particularly [[Ambitious]] rivals. #card
+- David's [toes]([[Toe]]) begin to [[Twitch]], a nervous [[Tic]] he cannot [[Conceal]]. #card
+- A [[Tempestuous]] younger male with an [[Aggressive]] [[Streak]]. #card
+	- 在说当前黑猩猩老大 David 的对手
+- [Grooming]([[Groom]]) builds bonds of friendship. #card
+	- 猩猩间相互梳理毛发说明结盟
+- You [[Scratch]] my back, and I'll scratch yours. #card
+	- 两只猩猩相互挠背表示结盟
+- 当前到 10 min
+-

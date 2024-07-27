@@ -1,27 +1,24 @@
 ## 当前学习方案
-- 口语以及表达：每天【跟读、背诵】一篇杨帅的真题素材；每天【跟读、背诵、复习】杨帅教你 900 句。
+- （听力学习）每日至少精听一篇【一点英语】中的视频：逐句精听，听懂了再继续，把知识点整理出来。
   logseq.order-list-type:: number
-- 词汇：对标 GRE 词汇
+- （口语学习）每天跟读、背诵一篇【杨帅真题素材】。
   logseq.order-list-type:: number
-	- 留点印象：有空用背单词的 APP 背一些单词，有空就背，不强求每日完成多少
-	  logseq.order-list-type:: number
-	- 刷 GRE 题目：
-	  logseq.order-list-type:: number
-- 听力：看 `Youtube` 感兴趣的全英视频，或者【一点英语】上的短视频，每天感受英语母语者的正常语速。
+- （口语学习）每天跟读、整理半节【杨帅教你 900 句】。
   logseq.order-list-type:: number
-	- 精听：推荐用一点英语的逐句精听，完全听懂了能自己说出来了再继续，把不会的知识点摘出来整理好
-	  logseq.order-list-type:: number
-	- 泛听：`Youtube` 上随便听
-	  logseq.order-list-type:: number
--
+- （表达复习）使用记忆卡片复习【中译英表达】（从各处摘录而来）
+  logseq.order-list-type:: number
+- （词汇学习）从【小说】、【电影】、【`Youtube` 视频】中摘录包含新词汇的句子（优先视频和电影，推荐纪录片或者各类解说视频，最好是带中英字幕的，建议每次摘录十分钟左右的视频）
+  logseq.order-list-type:: number
+- （词汇复习）使用记忆卡片复习【包含词汇的英语句子】，回忆词汇含义
+  logseq.order-list-type:: number
 - ## 知识积累
 - 单词、词组、句式：见 [[word]]、 [[phrase]]、 [[word categorization]]
 - 英语语法：[[英语语法]]
 -
-- ## 训练笔记
+- ## 笔记
 - ### 词汇
-- [7000 词汇用 100 个句子记住](https://www.123pan.com/s/plj7Vv-TA223.html)：笔记见 [[7000 词汇用 100 个句子记住]]。
-- 小说阅读：[[Fate Stay Night 小说笔记]]
+- 小说：[[Fate Stay Night 小说笔记]]
+- 视频：[[BBC 王朝纪录片]]
 - ### 口语
 - 杨帅教你 900 句口语：[杨帅教你900句音频](https://app8tmuj6dd3979.h5.xiaoeknow.com/p/course/column/p_616e23d5e4b0fcb77529d511)、[[杨帅教你 900 句口语笔记]]
 - 杨帅雅思口语真题素材：[[杨帅雅思口语真题素材笔记]]
