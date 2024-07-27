@@ -15,9 +15,34 @@
 - David's [toes]([[Toe]]) begin to [[Twitch]], a nervous [[Tic]] he cannot [[Conceal]]. #card
 - A [[Tempestuous]] younger male with an [[Aggressive]] [[Streak]]. #card
 	- 在说当前黑猩猩老大 David 的对手
+- He's strong but [[Grey]]-[bearded]([[Beard]]) and past the age he would challenge for the role of alpha. #card
+	- 在说黑猩猩老大 David 的盟友
 - [Grooming]([[Groom]]) builds bonds of friendship. #card
 	- 猩猩间相互梳理毛发说明结盟
 - You [[Scratch]] my back, and I'll scratch yours. #card
 	- 两只猩猩相互挠背表示结盟
-- 当前到 10 min
+- Only time will tell if this new [[Alliance]] will [[Pay off]]. #card
+- Temperature [[Soar]] . #card
+- The [[Arid]] land might seem one giant sand [[Pit]] for the [infants]([[Infant]]). #card
+	- 沙滩是幼儿猴子的乐园
+- Existing [tensions]([[Tension]]) are starting to [[Surface]]. #card
+	- 紧张的氛围开始浮现
+- It is a display of his [aspiration]([[Aspiration]]) for power. #card
+- With a final, huge [[Lunge]] at his rival. #card
+	- David 猩猩给敌人最后一击
+- Much of their food and [[Shelter]] has gone. #card
+	- 大火摧毁了食物和庇护所
+- Water is becoming [[Perilously]] [[Scarce]]. #card
+	- 大火后水很短缺
+- The group must [[Stick]] together to survive. #card
+- KL is proving to be a [[Loyal]] [[Ally]] to David. #card
+	- KL 和 David 猩猩是忠实的联盟
+- By rare [[Coincidence]], three of the seven females have become [[Sexually]] [[Receptive]] at the same time. #card
+	- 三只母猩猩进入发情期
+- He tries to [[Intimidate]] the group, but a [[Bid]] for leadership is never instant. #card
+	- 新猩猩领袖试图获得控制权
+- [[Friendless]] and [wounded]([[Wound]]), David [musters]([[Muster]]) the energy to search for food. #card
+- He has to rejoined the group before he's [exiled]([[Exile]]) for good. #card
+- 到30min
+-
 -
