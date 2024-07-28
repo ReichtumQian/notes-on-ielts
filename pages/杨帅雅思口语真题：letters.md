@@ -1,0 +1,17 @@
+- Do you often write letters?
+- No, I don't write a lot of letters now, because when I want to communicate with someone about something, most of the time I just, I don't even write emails. I mean, in most cases, I just sent them a text message through WeChat, so maybe it's a text message or also sometimes it's a voice message. WeChat is the most popular communication app in China. Everybody uses it. So at least for me and for Chinese people, I mean, there's no need to write letters.
+-
+- Do you like to write letters by hand or use a computer?
+- Well, if I had to write a letter, I would just, you know, I wouldn't write a letter, I would write an email. That way I would have to use a computer, of course.
+-
+- What do you usually write about?
+- Well, most of the time when I send people a text message, so like I said, I don't write letters or a lot of emails, so I just send text messages. When I do that, I usually ask people, maybe it's because we are going to grab a bite to eat. I ask them what time we're going to meet and where we're going to eat out. So maybe it's also because we're going shopping or something like that. And these are the things I usually write about.
+-
+- How do you feel when you receive a letter?
+- Like I mentioned over and over again, I don't write letters and most of my friends don't either. If I got a letter, I would be super surprised. I would be extremely shocked because I would be thinking, who sent this letter to me? Nobody does that.
+-
+- Do you think people will still write letters in the future?
+- No, I don't think so, so as I mentioned just now, we don't even write letters in today's world, [[Let alone]] in the future. Nobody will do that anymore, or maybe not nobody. I'm sorry, that's an [[Exaggeration]]. I believe the vast majority of people in the future won't write letters.
+-
+- 我相信未来大多数人不会写信了。 #card
+	- I believe the vast majority of people in the future won't write letters.
