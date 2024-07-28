@@ -1,4 +1,4 @@
-- 叙述黑猩猩的王朝故事
+-
 - We followed their [fortunes]([[Fortune]]) from here on the [plains]([[Plain]]) of Zimbabwe to the [jungles]([[Jungle]]) of India. #card
   card-last-interval:: 4.1
   card-repeats:: 1
@@ -181,6 +181,21 @@
 	- 新猩猩领袖试图获得控制权
 - [[Friendless]] and [wounded]([[Wound]]), David [musters]([[Muster]]) the energy to search for food. #card
 - He has to rejoined the group before he's [exiled]([[Exile]]) for good. #card
-- 到30min
--
--
+- [Intimidated]([[Intimidate]]), Luthor has to run. #card
+	- Luthor（对手猩猩）被吓住了
+- Without a [[Blow]] being [struck]([[Strick]]), David is back. #card
+- David is finally reunited with his [[Comrade]], KL. #card
+	- David 与 KL 重新结盟
+- [Exhausted]([[Exhaust]]) and [[Fragile]], he's only [hanging on]([[Hang on]]) to his leadership by a [[Thread]]. #card
+- With a [[Submissive]] [[Gesture]], he seeks forgiveness from David. #card
+	- 对手祈求 David 的原谅
+- There is water everywhere and [[Glut]] of food. #card
+- The [[Pressure]] on the group is [lifted]([[Lift]]). #card
+	- 下雨天后族群压力减轻了
+- He [gorges]([[Gorge]]) on everything he can find. #card
+	- David 需要狂吃恢复体力
+- Soon, another female will be ready to [[Mate]]. #card
+- To prevent a [[Recurrence]] of [[Dissent]] in the [[Ranks]] . #card
+- Her [swelling]([[Swell]]) doesn't go unnoticed. #card
+	- 猩猩臀部红肿代表进入了发情期
+- 到 45 min
