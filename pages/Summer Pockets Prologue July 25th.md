@@ -54,6 +54,50 @@
 - No matter how far down the road I go, the [[Landscape]] doesn't really change. #card
 - This is my first time on a road completely [[Devoid]] of streetlights. #card
 - [[Pork]] [[Cutlet]] bowl
--
+- I only hear the insects [chirping]([[Chirp]]) in the [bushes]([[Bush]]). #card
+	- 晚上只有虫子的声音
+- It seems I took a wrong turn while [immersed]([[Immerse]]) in the quiet peacefulness. #card
+- This makes the sense of loneliness that much more [[Conspicuous]]. #card
+	- 迷路使得孤独感更明显了
+- Was that too [[Naive]]?
+- It's very [[Narrow]] and tall.
+	- 烟囱很狭长
+- Now's not the time to let that [[Sink in]]. #card
+	- 现在不用去完全探索 lighthouse
+- But what would be making a [splashing]([[Splash]]) sound? #card
+	- 为什么会有泼水声
+- Judging from its size, it's likely an [[Elementary school]]. #card
+- There are some tiny [ripples]([[Ripple]]) in the pool. #card
+- This is the first time I've seen a pool with so few [lanes]([[Lane]]). #card
+	- 泳池的赛道很少
+- A [[Shiver]] runs down my [[Spine]]. #card
+	- 看到白羽在游泳很害怕
+- Taking a second look, schools are kind of [[Creepy]] this late at night. #card
+- I [[Spin]] around. #card
+	- 听到有人从水里出来，转身去看
+- It's almost like the pool's [[Guardian]] [[Deity]] has [manifested]([[Manifest]]) itself. #card
+	- 把白羽当成泳池守护神了
+- She's probably [[Apprehensive]]. #card
+	- 白羽被人发现后有点不安
+- I [[Pound]] my chest and say I'm not bad person. #card
+- Which way should I go to get the Katou [[Residence]]. #card
+- Take a left when you reach the [[Intersection]]. #card
+	- 白羽给主角指路
+- You may think you're okay, but you could get a leg [[Cramp]]. #card
+- That really [startled]([[Startle]]) me. #card
+	- 与白羽见面吓了主角一跳
+- I was so [flustered]([[Fluster]]) that I couldn't look her in the face. #card
+- I answer and [[Vacantly]] shake my head. #card
+- It's part of the island's [[Dialect]], and you use it when you're really annoyed or [irritated]([[Irritate]]). #card
+	- 问 aunt 烦色特了是什么意思
+- It's a pretty [[Harsh]] thing to say, so don't use it [[Casually]]. #card
+- What's with this [[Bathtub]]. So I probably just have to turn it on like a gas [[Stove]]. #card
+	- 浴缸是用 gas 的
+- I look at the [[Vapor]].
+- Options: The [[Aroma]] of milk,
+- She said I should do what I want here. That kind of [perplexes]([[Perplex]]) me. #card
+	- Aunt said that I should play 因此有点困惑
+- Pull the [[Blanket]] over me. #card
+	- 给我盖了毛毯
 -
 -

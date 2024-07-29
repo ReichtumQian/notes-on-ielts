@@ -1,4 +1,4 @@
 -
 - [[Summer Pockets Prologue July 25th]]
--
+- [[Summer Pockets Prologue July 26th]]
 -
