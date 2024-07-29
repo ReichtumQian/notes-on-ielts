@@ -1,0 +1,12 @@
+-
+- Do you often use maps?
+- Oh, yeah, absolutely. I mean, I don't have a good sense of direction, so I always have to. I have fighting my [bearings]([[Bearing]]) whenever I'm in a different city or in a different country. Because I love traveling. Whenever I go abroad, I travel overseas with my friends. We have to [[Hire]] a car in that country. And then, because we've never been there before, this is usually our, it's usually our first time, we usually have to try to find our way. That way. I'll just use a map, of course.
+-
+- Who taught you to use a map?
+- I don't really remember, perhaps it was my dad. When I was a child, or maybe it was, well, we had [[Geography]] class in middle school, and I vaguely remember that our geography teacher taught us something about using maps. I, it's been so long. I'm sorry, it's been 10 years already, so my memory is a little [[Sketchy]]. I think it was our geography teacher, if I'm not mistaken.
+-
+- Have you asked someone for directions?
+- Oh, all the time. I mean, like I said just now, I always travel abroad. And when I am there, when I lose my way, I just try to find our way on a map or on a map on our phone, actually on my phone. Sometimes if there's someone near me, close to me I'll just go up to them and ask them how I can get to my destination. I've done that multiple times.
+-
+- When was the first time you used a map?
+- Oh my goodness, I don't really remember. Your questions are all are all asking me about my past, so it must have been like 10 or even 15 years ago, I don't know I'm so sorry.
