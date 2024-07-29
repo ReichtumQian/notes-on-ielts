@@ -1,0 +1,59 @@
+- [[Prologue]]
+- I was the only one out here, but now the [passengers]([[Passenger]]) are [flocking]([[Flock]]) to the [[Deck]] one by one. #card
+	- 准备下船
+- The Torishiro Fishing [[Port]].
+- There are a few houses [sprinkled]([[Sprinkle]]) along the [[Coast]]. #card
+	- 海岸旁零星分布着一些小屋
+- I [[Squint]] my eyes as the ocean [[Breeze]] starts [blowing]([[Blow]]) in my face. #card
+- caught up in a [[Gust]] of wind.
+- It looks as though a [[Clump]] of white clouds had fallen from the sky.
+	- 形容白羽
+- The birds [[Overtake]] the ship and fly towards the island.
+- The ship slows down as it approaches the [[Pier]].
+	- 靠近码头
+- As I [[Glance]] around aimlessly, my eyes meet the [[Gaze]] of a [[Stray]] cat that's hungry for fish. #card
+- The old lady is trying to [[Drag]] her [[Suitcase]] off the ship. #card
+- I [[Dash]] toward her and hold my hand out. #card
+	- 我走向老奶奶，帮忙拎东西
+- As I help carry the old lady's [[Luggage]] off the boat. #card
+- A small [[Rural]] island where a lone [[Migratory]] bird has come to rest his wings. #card
+- A [[Paradise]] for birds who have forgotten how to fly. #card
+- An [[Oasis]] where one's [sins]([[Sin]]) are [cleansed]([[Cleanse]]). #card
+- It's [ridiculously]([[Ridiculous]]) hot. #card
+- The sun has been beating down on me mercilessly, almost to the point that I could hear its [beams]([[Beam]]). #card
+- And coupled with the [[Chorus]] of [cicadas]([[Cicada]]), the heat has been several times more unbearable. #card
+- I firmly [[Grasp]] the bag stuffed full of items. #card
+- I've given up on [wiping]([[Wipe]]) the [beads]([[Bead]]) of [[Sweat]] that are endlessly [dripping]([[Drip]]) from my [[Forehead]] and walk [[Onward]] . #card
+- I must be getting close to the [[Residential]] area.
+- It's Takahara, your [[Nephew]].
+- Pardon my [[Intrusion]]. #card
+	- 没有人回应，因此直接进入 aunt's house
+- The [sliding]([[Slide]]) door has been left open, giving the room a nice [[Airy]] feel. #card
+	- 滑门开着，很通风
+- I step out into the inner [[Courtyard]] and [[Stroll]] around. #card
+- There's a [[Shed]].
+- She seems [awkwardly]([[Awkward]]) [[Hesitant]]. #card
+	- 姑姑有点尬尴
+- I [[Gulp]] down the cold [[Barley]] tea in one go. #card
+- Seeing that, Kyouko-san(姑妈) [chuckles]([[Chuckle]]) a little and fills my cup again. #card
+- I [[Peer]] out the window at the island's [[Scenery]]. #card
+- It's a [[Relative]]?
+- The only [[Impression]] I ever had of my grandmother were the [[Exotic]] gifts. #card
+- In [[Accordance]] with her wishes, our family held a small private [[Funeral]] instead of a traditional funeral [[Ceremony]]. #card
+- I've been afraid to swim ever since I [screwed up]([[Screw up]]) at an important swim meet. #card
+- Just being in water is enough to make me feel [[Sick]].
+- Did you have a good [[Nap]].
+- I'm sorry for [dozing]([[Doze]]) off like that. #card
+- Then my [[Stomach]] shamelessly decides to [[Growl]]. #card
+- You walked up a [[Slope]] on your way here, didn't you? #card
+	- 你来的时候走了一段斜坡对吧？
+- There's a [[Cafeteria]] right at the bottom of that [[Hill]]. #card
+- It's your [[Allowance]]. #card
+- My hand [fidgets]([[Fidget]]) in the air a little before taking the money.
+- Kyouko-san [wheels]([[Wheel]]) something out of the [[Garage]]. #card
+- No matter how far down the road I go, the [[Landscape]] doesn't really change. #card
+- This is my first time on a road completely [[Devoid]] of streetlights. #card
+- [[Pork]] [[Cutlet]] bowl
+-
+-
+-
