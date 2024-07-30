@@ -1,0 +1,40 @@
+-
+- It takes me a moment to [[Piece]] everything together.
+- A pleasant [[Aroma]] [drifts]([[Drift]]) from the living room
+	- 早饭的香气
+- Umi-chan gives me a [[Sour]] expression.
+	- 因为主角认为早饭不是 Umi 做的
+- You don't need to [[Flatter]] me. #card
+	- Umi 说主角不用讨好她（说她的炒饭好吃）
+- She's completely taken the [[Initiative]] here. #card
+	- Umi 完全掌握了主动权
+- We're playing rock-paper-[scissors]([[Scissor]]) #card
+	- 石头剪刀布
+- There are things like taking out the [[Trash]] and getting [groceries]([[Grocery]]). #card
+- I'm going to get out of doing the [[Laundry]].
+- I don't want to have to wash and dry your [[Underwear]]. Man, you're pretty [[Blunt]]. #card
+	- Umi 不想帮忙洗内衣
+- What are you [grinning]([[Grin]]) for? you lost. #card
+	- 在石头剪刀布上捉弄 Umi，觉得很好玩
+- It kind of gives this place the feeling of a [[Cozy]] [[Antique]] store. #card
+- Inside the storage shed, I find Kyouko-san already hard at work, moving a few [[Bulky]] items. #card
+- I [[Tap]] the motorcycle. I put on my [[Helmet]] and get on the bike. #card
+- I put my hand on the [[Throttle]].
+- Just by riding on the motorcycle, the [[Stuffy]] summer air turns into a cool breeze. #card
+- [Enveloped]([[Envelope]]) by the [[Scent]] of the sea breeze. #card
+	- 骑摩托很爽
+- Over at the [[Harbor]], judging from the wake flowing along the water's surface, it seems the [[Ferry]] has just [taken off]([[Take off]]). #card
+- It has a long, [[Fluffy]] tail and [[Pointy]] ears.
+	- 小宠物
+- It's so loud that I'd call it more of a [[Shriek]] than a [[Scream]]. #card
+	- 苍从睡梦中被叫醒，很惊讶
+- You aren't trying to [[Violate]] me, are you?! #card
+	- 苍被叫醒后把主角当成坏人了
+- I was just [assaulted]([[Assault]]) by a guy I don't know. #card
+- What a [[Whimsical]] girl.
+- I'm not that strong [mentally]([[Mental]]).
+	- 被苍吐槽了，有点撑不住
+- Could you stop holding your shoulders and being so [[Suspicious]] of me.
+-
+-
+-

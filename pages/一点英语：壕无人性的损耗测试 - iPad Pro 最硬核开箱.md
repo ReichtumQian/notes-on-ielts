@@ -1,0 +1,12 @@
+-
+- Plenty of new design changes, thinner [bezels]([[Bezel]]), and no home button or headphone [[Jack]]. #card
+- It's time to see if this [[Massive]] [[Tablet]] is [[Durable]]. #card
+- 11 [[Inch]]. Perfect size for a [[Backpack]] or book bag. #card
+- Old Apple pencil [pokes]([[Poke]]) out the bottom of the iPad while charging. Like an elephant [[Trunk]] just waiting to [[Snap]] off. #card
+- The [[Tip]] of the [[Pristine]] clean white pencil does not appear to be replaceable. #card
+- Inside of the upper half of the [[Stiff]] [[Metal]] [[Frame]] is where the battery [resides]([[Reside]]). #card
+- But it [squirted]([[Squirt]]) battery acid at me.
+- Each [[Scratch]] of my picks leaves major [[Temporary]] [impressions]([[Impression]]) on the [pixels]([[Pixel]]). #card
+-
+-
+-
