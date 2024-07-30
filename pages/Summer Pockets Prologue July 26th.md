@@ -35,6 +35,42 @@
 - I'm not that strong [mentally]([[Mental]]).
 	- 被苍吐槽了，有点撑不住
 - Could you stop holding your shoulders and being so [[Suspicious]] of me.
--
+- A girl with a fox that [howls]([[Howl]]) like a dog.
+- A huge wave [crashes]([[Crash]]) upon the rocks. It completely [drenches]([[Drench]]) me before [receding]([[Recede]]). I am completely [soaked]([[Soak]]) #card
+- It'd be weird to [[Mill]] around like this.
+- I think he's trying to [[Mimic]] a longicorn(长角的）
+	- 吓唬小孩子中
+- I [[Come across]] a shirtless guy who's sitting on a [[Bench]] eating ice cream. #card
+- It seems he's mistaken me as some kind of [[Compatriot]].
+	- 主角和好基友都没穿衣服
+- At that instant, the air around my ears suddenly [bursts]([[Burst]]).
+	- 好基友被水枪攻击了
+- It's a [[Nude]] hunter. An anti-nude who hunts down men who live [naked]([[Naked]]) like you and me. #card
+- I wave my hand back and [[Forth]] to [[Refute]]. #card
+	- 我反驳说我平时不是裸着的
+- Put your hands up and [[Surrender]]. #card
+- The guy [groans]([[Groan]]) and falls to the ground. #card
+	- 好基友被水枪击中了
+- A [[Rifle]]
+- There's just a [[Stream]] of water shooting out of the [[Barrel]] of girl's [[Rifle]]. #card
+- She points her finger at me and [frowns]([[Frown]]). #card
+- That [[Granny]]?!
+	- 老奶奶把故事告诉Hairi了
+- I know. It's just a [[Metaphor]]
+- She's speaks with a [[Haughty]] [[Tone]].
+- I'll [[Overlook]] this today. #card
+	- 今天绕过主角不穿衣服
+- The guy laughs happily, [brushes]([[Brush]]) his hair up, and [winks]([[Wink]]) for some reason.
+- He's way too [[Persistent]].
+- I haven't done anything that [[Repulsive]], have I? #card
+	- 主角对基友说了烦色特了
+- Just how much did that girl [[Loathe]] me.
+	- 烦色特了反映出白羽有多讨厌主角
+- I go [[Retrieve]] the bike that I abandoned and head home. #card
+- [[Appraisal]] result: 30 yen. #card
+	- 小孩们对偷走的衣服估价
+- There's nothing wrong with reading [[Romance]] manga. #card
+	- 男主的朋友借给他的爱情漫画
+- I didn't know that swim trunks are so [[Trendy]] among young people.
 -
 -
