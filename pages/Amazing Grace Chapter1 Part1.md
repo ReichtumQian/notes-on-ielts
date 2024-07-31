@@ -1,0 +1,28 @@
+-
+- What a [[Relief]], I thought you might never wake up.
+- Her name [swirls]([[Swirl]]) around in my head.
+- She gives me an [amused]([[Amuse]]) smile.
+- She now stands before me, [glowing]([[Glow]]) with an [[Aura]] that could almost be called angelic.
+- As she speaks, she breathes a [[Sigh]] of relief, [clasping]([[Clasp]]) her hands in front of her chest.
+	- 看到男主醒过来很欣慰
+- It seems [[Genuine]], she's truly delighted.
+- I'm not in bad enough shape for that. It's mainly just [[Muscle]] [[Soreness]].
+- I'm not sure. I just had a [[Hunch]], I guess.
+- I wanted to [[Hibernate]] until January, but then you woke me up.
+	- 男主开玩笑说自己想冬眠到一月份
+- My mind [conjures]([[Conjure]]) up an image of my backpack.
+- I [[Swear]] I was wearing it on my back.
+- I reach inside my right [[Pants]] pocket.
+- Although I know what it's used for, the word itself [slips]([[Slip]]) through my [[Grasp]] like [[Mist]].
+- My [joints]([[Joint]]) [[Groan]] in [[Protest]] as I get to my feet.
+- Despite the [[Rip]] in my shirt, my clothes are cleaner than I expected.
+- Isn't it a [[Demon]] [infested]([[Infest]]) sodom out there?
+- We climb up the [[Staircase]].
+- An impossibly [[Vibrant]] town [stretches]([[Stretch]]) out below me.
+- I spot several people walking along the [[Cobblestone]] streets that run between rows of [[Brick]] buildings, all [[Reminiscent]] of old European [[Architecture]].
+- The cool wind [caresses]([[Caress]]) my [cheeks]([[Cheek]]), reminding me again of the [looming]([[Loom]]) winter.
+- The cloudless sky is as [[Magnificent]] as the town spread out beneath it.
+- The scene before me is, quite simply, [[Bizarre]].
+-
+-
+-

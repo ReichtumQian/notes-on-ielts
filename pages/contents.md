@@ -1,6 +1,6 @@
 ## 当前学习方案
 - ### 学习
-- （听力学习）每日至少精听一篇【一点英语】中的视频：逐句精听，听懂了再继续，把知识点整理出来。
+- （听力学习）听【一点英语】、 [严肃的英语](https://space.bilibili.com/1688515694?spm_id_from=333.337.search-card.all.click)、[BigShot英语](https://space.bilibili.com/1589382178?spm_id_from=333.337.0.0)，可以精听（即听写）或者学习一下语料
   logseq.order-list-type:: number
 - （口语学习）每天跟读、背诵一篇【杨帅真题素材】。
   logseq.order-list-type:: number
@@ -30,12 +30,12 @@
 - 夏洛克电视剧：[[新神探夏洛克笔记]]
 - 权力的游戏：
 - 底特律变人：[[底特律变人英语笔记]]
-- Summer Pockets 游戏：[[Summer Pockets 笔记]]
+- 游戏：[[Summer Pockets 笔记]]、[[Amazing Grace 笔记]]
 - ### 口语
 - 杨帅教你 900 句口语：[杨帅教你900句音频](https://app8tmuj6dd3979.h5.xiaoeknow.com/p/course/column/p_616e23d5e4b0fcb77529d511)、[[杨帅教你 900 句口语笔记]]
 - 杨帅雅思口语真题素材：[[杨帅雅思口语真题素材笔记]]
 - ### 听力
-- 一点英语学习：[[一点英语笔记]]
+- 听力训练：[[一点英语笔记]]、[[严肃的英语笔记]]、[[BigShot 英语笔记]]
 - `Youtube` 英语学习：
 -
 - ## 雅思技巧

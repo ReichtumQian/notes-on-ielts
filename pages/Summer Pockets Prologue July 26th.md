@@ -72,5 +72,12 @@
 - There's nothing wrong with reading [[Romance]] manga. #card
 	- 男主的朋友借给他的爱情漫画
 - I didn't know that swim trunks are so [[Trendy]] among young people.
+- Even though I won most of our rock-paper-scissors [matches]([[Match]]), I ended up taking on most of the cleaning chores.
+- Why were you [sniffing]([[Sniff]]) the bathwater? #card
+- Are you trying to [[Flirt]] with me? Instinctively, I [[Blurt]] our laughing. #card
+- I'm struck with a sense of [[Anxiety]].
+- She can [[Kick]] just fine, but she's barely moving forward.
+- The girl climbs out of the pool and [flings]([[Fling]]) her hair to shake off some water.
+-
 -
 -
