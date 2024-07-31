@@ -23,6 +23,38 @@
 - The cool wind [caresses]([[Caress]]) my [cheeks]([[Cheek]]), reminding me again of the [looming]([[Loom]]) winter.
 - The cloudless sky is as [[Magnificent]] as the town spread out beneath it.
 - The scene before me is, quite simply, [[Bizarre]].
+- A city surrounded by [[Aurora]].
+- There's a faint shadow of fear [lurking]([[Lurk]]) beneath her delighted response.
+- I know it's [[Taboo]]. But I just had a conversation about this morning.
+- It's been [drilled]([[Drill]]) into our heads since childhood.
+	- 她们被从小训练不能问 Aurora 外面的事情
+- [[Past]] the aurora.
+- I guess you really do have [[Amnesia]] then.
+- An outsider, with outside memories. An [implied]([[Imply]]) [[Prophecy]] with an [[Aura]] of truth to it.
+- It'd be [[Immoral]]. You'd never be able to return.
+	- 如果出去了 aurora，则再也回不来了
+- Our [[Stance]] on this seems very different. To me it's just a big wall, but for them it's a [[Moral]] issue.
+	- 我觉得出去 aurora 也不会不道德
+- I was trying to come up with an [[Analogy]].
+- They clearly don't use the [[Metric]] system here.
+- you know the [[Renaissance]] [[Masterpiece]].
+- The statue of David was the first [[Sculpture]] I ever studied.
+- I'm some [[Bizarre]], out-of-place [[Presence]], and yes Yune still treats me kindly, without [[Prejudice]]. #card
+- Despite knowing nothing about what lay outside their [[Sphere]] of existence.
+- Thanks to having been bedridden earlier today, my body feels like [rusted]([[Rust]]) [[Metal]] in need of oil. #card
+- Sakuya hands me a shirt and a [[Sweater]]. #card
+- I like to make little [outfits]([[Outfit]]) sometimes. #card
+- They looked like [miniatures]([[Miniature]]) so high up that. #card
+	- 在楼顶看建筑感觉很小
+- Do you think a word might [[Trigger]] your memory.
+- [[Curry]]：男主最爱的食物
+- [Granted]([[Grant]]), I can't be sure I've heard about St. Aria Academy before. #card
+	- 表示同意
+- Maybe going to the school will [[Jog]] something [[Loose]]?
+- This is the shopping [[District]]. It's full of stores.
+	- 开始逛街
+- Wow. It's really [bustling]([[Bustle]]).
+- It feels strangely [[Ominous]], but the two girls seem completely [[Unfazed]].
 -
 -
 -

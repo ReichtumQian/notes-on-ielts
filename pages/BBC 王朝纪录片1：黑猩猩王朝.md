@@ -198,4 +198,18 @@
 - To prevent a [[Recurrence]] of [[Dissent]] in the [[Ranks]] . #card
 - Her [swelling]([[Swell]]) doesn't go unnoticed. #card
 	- 猩猩臀部红肿代表进入了发情期
-- 到 45 min
+- None of his rivals [[Dare]] to challenge him
+- By being Alpha, David will have sired(当父亲) twice as many [[Offspring]] as any other member of the group.
+- David has become the most powerful, longest [reigning]([[Reign]]) alpha.
+- ## 幕后
+- The Dynasties [[Crew]] spent two years capturing the story.
+- You know it's [[Steep]] when the chimps are being careful.
+- I think it's fair to say [filming]([[Film]]) a [blazing]([[Blaze]]) fire.
+- He's very, very [[Charismatic]].
+- He's got a real kind of [[Swagger]] to him.
+- a very [[Dominant]] chimp and he was very [[Ambitious]].
+- It's like a [[Frail]] old man, suddenly.
+- we have just found some [tracks]([[Track]])
+-
+-
+-
