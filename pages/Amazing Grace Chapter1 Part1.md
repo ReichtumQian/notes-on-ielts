@@ -55,6 +55,50 @@
 	- 开始逛街
 - Wow. It's really [bustling]([[Bustle]]).
 - It feels strangely [[Ominous]], but the two girls seem completely [[Unfazed]].
+- I [[Alternate]] between an [[Earnest]] apology and [[Sincere]] thanks. #card
+- I see two horses pulling a [[Carriage]] with a woman inside.#card
+- Cars, to me, are generally [automobiles]([[Automobile]]).
+- That [[Merry]]-go- [[Round]] looks like something out of a [[Fairy]] [[Tale]]. #card
+	- Merry-go-round 指的是旋转木马
+- [[Bell]] tower.
+- This spot's really [[Picturesque]].
+- We turn the corner and are immediately greeted by a [[Magnificent]] [[Gate]]. #card
+- The building before me is far more [[Majestic]] and [[Glorious]] than anything I might have imagined.
+- Aren't schools usually more simple and [[Modest]]?
+	- 学校不应该更谦虚一点？（太过壮丽了）
+- Not being able to remember is [[Torture]].
+- It's like there's something. Right on the [[Tip]] of my [[Tongue]]. #card
+	- 好像有想说的，但是说不出
+- Just take a deep breath, and remove the [chains]([[Chain]]) holding back your memories! #card
+- I [[Muse]] over the name while my [[Gaze]] plays over the front entrance. #card
+- There really doesn't seem to be any [[Rhyme]] or reason to this.
+- We were greeted by a fantastical garden dominated by an [[Opulent]] lion-shape [[Fountain]].
+- Yune [whispers]([[Whisper]]) something in Sakuya's ear.
+- I was [tossed]([[Toss]]) into this closed-off world from the outside.
+- My [[Presence]] [messes]([[Mess]]) with the very foundations of this town. I am a harmful [[Entity]] that must be [destroyed]([[Destroy]]). #card
+- Okay! Camera's in place! All that's left is to set up the [props]([[Prop]]). #card
+	- 校园里有人在拍照
+- Let's [[Shoot]] the flying bird [[Scene]] in front of the blue sky [[Backdrop]].
+- That's the perfect [[Angle]]. The lighting's [[Questionable]], though.
+- That [[Garbage]] is all in the [[Shot]].
+- A group of ten or so kids begin setting their bags [crammed]([[Cram]]) with [[Junk]] onto the ground.
+- It's probably better to keep my mouth [[Shut]].
+	- 好像要抓人当主角
+- As I stand there [bewildered]([[Bewilder]]). She [grabs]([[Grab]]) my hand in hers and [yanks]([[Yank]]) me toward the group. #card
+- Her suggestion is immediately met with a [[Chorus]] of agreement from the group. It's [[Unanimous]] then.
+	- 男主被抓去当主角了
+- That's right, I'm [scouting]([[Scout]]) you!
+	- 抓去当主角了
+- There's another [[Murmur]] of agreement from the group, but I'm still [[Skeptical]].
+- Feel free to [[Adlib]] the lines.
+- I turn to see a tall, [[Slender]] girl. To call her [[Stunning]] would be an [[Understatement]]. #card
+	- 看到了 Kotoha
+- Sorry that Kirie dragging you into this, but it's as [[Pathetic]] as it sounds. We have no star for our next [[Film]].
+- In contrast to the [[Diminutive]] Kirie, she seems taller than me, her amazing [[Posture]] [boosting]([[Boost]]) her height.
+- The actress referred to as "Koto" [pouts]([[Pout]]), a look of disappointment on her face, and I can't help but feel a [[Twinge]] of [[Guilt]].
+- You can't play both the [[Heroine]] and the leader.
+-
+-
 -
 -
 -
