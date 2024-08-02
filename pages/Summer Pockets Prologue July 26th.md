@@ -21,7 +21,7 @@
 - I [[Tap]] the motorcycle. I put on my [[Helmet]] and get on the bike. #card
 - I put my hand on the [[Throttle]].
 - Just by riding on the motorcycle, the [[Stuffy]] summer air turns into a cool breeze. #card
-- [Enveloped]([[Envelope]]) by the [[Scent]] of the sea breeze. #card
+- [Enveloped]([[Envelop]]) by the [[Scent]] of the sea breeze. #card
 	- 骑摩托很爽
 - Over at the [[Harbor]], judging from the wake flowing along the water's surface, it seems the [[Ferry]] has just [taken off]([[Take off]]). #card
 - It has a long, [[Fluffy]] tail and [[Pointy]] ears.

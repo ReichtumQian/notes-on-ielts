@@ -97,8 +97,67 @@
 - In contrast to the [[Diminutive]] Kirie, she seems taller than me, her amazing [[Posture]] [boosting]([[Boost]]) her height.
 - The actress referred to as "Koto" [pouts]([[Pout]]), a look of disappointment on her face, and I can't help but feel a [[Twinge]] of [[Guilt]].
 - You can't play both the [[Heroine]] and the leader.
--
--
--
+- It sounds like you're really in a [[Jam]].
+- Their eyes [[Gleam]] with [[Unshed]] tears.
+	- 她们很感动
+- I got it on [[Tape]].
+	- 她们把男主的同意录下来了
+- She seems incredibly smart and [[Dedicated]].
+- Shall we start from the [[Climax]]? This is the scene where Kentarou -- that's you, Shuu -- [proposes]([[Propose]]) to Koto.
+- Not even a week ago you [accused]([[Accuse]]) me of cheating on you! How could you double my [[Fidelity]]. #card
+	- 在演戏求婚
+- She's taking the lead, trying to ease me in while [tugging]([[Tug]]) on the [[Audience]]'s heartstrings. #card
+	- 深情地演戏
+- Up until yesterday, when you suddenly dashed into a [[Jewelry]] store, [ditching]([[Ditch]]) me.
+- I [[Envelop]] Kotoha in a [[Passionate]] [[Embrace]]. #card
+- Figuring I don't have a chance at keeping up with the [[Dialogue]].
+- The most [anticipated]([[Anticipate]]) scene in any [[Romance]] film -- the big kiss.
+- When it comes to [finales]([[Finale]]), you gotta go out with a bang!
+- I'm glad I managed to [[Dodge]] it.
+- Just as our lips were about to touch, Kotoha [[Deftly]] leapt out of the way, leaving me to bear the entire [[Brunt]] of the [[Blast]]. #card
+	- 拍摄结束时发生了烟火爆炸
+- Smoke curls up lazily from where we'd been standing a moment ago, a [scorched]([[Scorch]]) [[Scent]] [wafting]([[Waft]]) in the air, mixed, oddly enough, with soap.
+- And what's with the [[Smug]] self-confidence.
+- Explosions make for [[Epic]] endings -- That's my [[Motto]]!
+- Kirie looks at me as if I [slapped]([[Slap]]) her.
+- I feel trapped by the [[Intensity]] of her stare.
+- Explosions show the beauty of [[Destruction]]. The [[Magnificence]] of a flower lies in its death.
+- I'm going to politely [[Decline]].
+- What a [[Whirl]] wind of a group.
+	- 她们很快离开了，像旋风一样
+- I've had at least a couple years [shaved]([[Shave]]) off my life.
+- The [scars]([[Scar]]) from that file [[Crew]] will [[Haunt]] me forever.
+- Let's go to the [[Chapel]].
+- [stained]([[Stain]]) glass windows：教堂的玻璃窗
+- Every word echoes through the chapel, like a [[Divine]] message.
+	- 老师（修女）开始说话
+- Outside the aurora -- a [forsaken]([[Forsake]]) world we are forbidden to enter.
+- If it's truly that mush of a [[Taboo]], then isn't what I did a punishable [[Offense]].
+- Because they gave their word on my [[Behalf]].
+	- 问修女为什么相信自己，难道是她们为主角辩护了？
+- But that's right. As [[Exemplary]] students, I have no reason to doubt what they say.
+- I admire her [[Generosity]].
+- My clothes weren't [ripped]([[Rip]]) on purpose!
+- We once again return to Palm Dorm, the starting point for today's exciting [[Excursion]]. #card
+- Yet it feels so [[Cozy]] and welcoming.
+- You [[Jerk]]! Do you know how much time I spent make that!
+- So kirie [roped]([[Rope]]) you into her movie, huh?
+- He seemed to be [meditating]([[Meditate]]) earlier.
+- I spot a [[Solitary]] gentleman.
+- Bright blue eyes, like a cloudless sky, [framed]([[Frame]]) by long, [[Feminine]] [eyelashes]([[Eyelash]]).
+- Just a simple [[Pervert]].
+	- 见到的 Gidou 不穿衣服
+- To visualize a piece is one thing, but he [carved]([[Carve]]) them with such [[Exquisite]] details.
+	- Gidou 自创的 chess
+- He's got the [[Composure]] of a proper upperclassman.
+	- Gidou 见到男主不惊讶
+- Like a [[Glimpse]] into what sort of life he had.
+- Kotoha: I heard a [[Commotion]] in the [[Hall]] and came to [[Investigate]].
+	- 男主要住进女寝，出现了骚乱
+- Gidou takes out a [[Brass]] key and uses it to unlock the device.
+- [Commencing]([[Commence]]) biometric registration.
+- [[Index finger]]
+- The dorm [[Curfew]] is ten at night.
+- It's [[Chilly]], but it helps calm my racing thoughts.
 -
 -

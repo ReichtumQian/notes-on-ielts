@@ -1,5 +1,5 @@
 -
 - [[Amazing Grace Prologue]]
-- [[Amazing Grace Chapter1 Part1]]
--
+- [[Amazing Grace Chapter1 Part1：11.29]]
+- [[Amazing Grace Chapter1 Part1：11.30]]
 -
