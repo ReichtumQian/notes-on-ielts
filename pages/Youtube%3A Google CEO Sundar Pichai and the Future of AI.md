@@ -15,7 +15,10 @@
 - more SEO [[Spam]].
 - Are we in the [[Midst]] of an [[Assault]] of Google's business model?
 	- Use AI rather than offering links will lose a lot of money.
--
+- Is LLM technology nearing a [[Plateau]].
+- The opportunity we have ahead of us is [[Immense]].
+- There have been multiple rounds of [layoffs]([[Layoff]])
+- You told me China will be at the [[Forefront]] of AI.
 -
 -
 -

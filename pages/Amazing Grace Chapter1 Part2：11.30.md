@@ -1,0 +1,82 @@
+-
+- The [[Organ]] echoes loudly in the [[Chapel]].
+- Yesterday was [dedicated]([[Dedicate]]) to my self-introduction.
+- Sister Lili usually runs the morning [[Assembly]] at St. Aria Academy.
+- We'll start in [[Genesis]], chapter three, [[Verse]] two.
+- But forbidding something only makes it that much more [intriguing]([[Intrigue]]).
+- Only women seem to bring about [[Grave]] [[Misfortune]].
+- I [reverently]([[Reverent]]) [[Dust]] off the gift I got yesterday.
+- Why would a camera put him in such a good [[Mood]].
+- I'm cleaning the [[Lens]] of my camera!
+- What a [[Dumb]] question.
+- I don't have a lot of [[Film]].
+	- 没有很多胶卷
+- Knowing our cultures are so obviously different [prompts]([[Prompt]]) a question to form in my mind.
+- The town's level of technology seems far [[Inferior]] to what I'm used to.
+- Partly based on [[Religious]] beliefs, it's clear talk of the outside world is actively discouraged.
+- Our ways might seem different, even a little [[Peculiar]] to you.
+- It will only cause trouble and [[Sow]] disorder if the other students were to overhear talk about the outside world.
+- So no [[Casual]] conversations on the outside world. Is that the [[Gist]] of it?
+- It's fine, however, if the other students know where you [[Hail from]].
+- Even knowing the need for [[Discretion]], I can't help but get swept up in everyone's excitement.
+- And you, too, Kirie. Stop [interrogating]([[Interrogate]]) the poor boy.
+- I can't believe there's an entire art gallery [buried]([[Bury]]) the [[Corridor]] we're walking through right now.
+- All cameras are [prohibited]([[Prohibit]]).
+- We [[Descend]] into the gallery.
+- I can't help but [[Gasp]] in surprise.
+	- 看到 gallery 很惊讶
+- The art gallery is the town's [[Pride]] and joy.
+- but the layout makes it feel like a giant [[Maze]].
+- Sister Lili's question prompted my brain to force my mouth to [[Utter]] that unfamiliar name.
+- "Crosa's Lost Paradise" seems [[Obscure]] enough that it makes sense no one might've heard of it, but Picasso's art is common knowledge.
+- Honestly speaking, even I'm pretty [baffled]([[Baffle]]).
+- I turn to see a painting filled with a [[Multitude]] of different people.
+- Do you understand what's being [portrayed]([[Portray]]) here?
+- See this man [kneeling]([[Kneel]]) to the right here? An old man with a [[Beard]] grey hair.
+- The man handing him the keys is [[Christ]].
+- I think for granted most people couldn't [[Decipher]] works of art.
+- He's accepting the keys to the kingdom of [[Heaven]].
+- Yune was able to [[Glean]] the meaning based on key items in the painting.
+- An identifying object usually associated with that person. It's a common [[Convention]] in paintings.
+- What if I told you to imagine a baby holding a [[Bow]] and [[Arrow]].
+- Sister Lili [beams]([[Beam]]) at my answer.
+- One might say Cupid's （丘比特） [[Attribute]] is his bow and arrow.
+- One might refer to his bow and arrow as a kind of [[Trademark]].
+- Knowing the different attributes makes figuring out art [pieces]([[Piece]]) way more fun.
+- You possess an [[Intrinsic]] understanding of what the red line means.
+- Attributes are used mainly in religious pieces. Modern works tend to [[Forgo]] them.
+- I accidentally [[Dug]] my own grave.
+- Adam and Eve, in the garden of Eden, and their [[Subsequent]] [[Expulsion]] after eating the forbidden fruit.
+- What's this. A [[Wallet]]?
+- There's something [tucked]([[Tuck]]) away inside, too.
+- A lack of [[Disposable]] income is [[Rough]], I'm sure.
+	- Sister Lili gives the hero some money
+- To not only provide me with food and [[Board]], but also a bit of spending money as well.
+- The day finally comes to an end as I [[Tumble]] into bed.
+- What a [[Racket]]. I hear a different sound -- coming from the [[Patio]].
+- Unlike the sounds earlier, the [[Metallic]] [clanging]([[Clang]]) seems to be coming directly from my [[Patio]].
+- (A [[Burglar]]? There must be something in here I can use as a [[Weapon]]).
+- Kirie [crumples]([[Crumple]]) to the ground.
+	- Kirie 来夜袭，被一下打倒
+- I thought you were trying to [[Rob]] me!
+- She used a [[Ladder]] to climb down to my [[Patio]].
+- Suddenly [[Overcome]] by a feeling of [[Dread]], I [[Glance]] up to see.
+- Well, with this, you can still come and go even after [[Curfew]].
+- She's surprisingly [[Observant]].
+- I wasn't expecting such a [[Curt]] response.
+- We're the only ones here, meaning there's no way that I say will become campus [[Gossip]].
+- It's kind of a [[Dumb]] question.
+- You know Santa （圣诞老人）but not Bad Santa? Your lack of common sense is [astounding]([[Astound]]) sometimes.
+- And Bad Santa [kidnaps]([[Kidnap]]) all the bad children.
+- I watch her [[Anxiously]] through the corner of my eye as she [mulls]([[Mull]]) it over.
+- Is it some kind of folk [[Lore]].
+- Bad kids don't [[Pray]].
+- I can tell it's a half [baked]([[Bake]]) response.
+- But considering how sensitive this clearly topic is, I decide not to [[Pry]] any further.
+- People disappearing, one by one, without a [[Trace]].
+- Folks vanishing, seemingly into thin air, it's pretty hard to [[Swallow]].
+-
+-
+-
+-
+-
