@@ -1,5 +1,39 @@
 -
 - Students are able to come and go at their [[Leisure]].
+- That must mean the park's as large as several [[Baseball]] stadiums.
+- From the playground to the Tear down to each individual [[Blade]] of grass, has been [meticulously]([[Meticulous]]) placed.
+- Even the park is [elevated]([[Elevate]]) to a work of fine art. The town's focus on the arts is truly [astounding]([[Astound]]).
+- I glance over her body, her chest [puffed]([[Puff]]) up with pride.
+- There's a huge [[Fountain]] that [spews]([[Spew]]) [[Insane]] amounts of water and a [[Bunch]] of iron bars [twisted]([[Twist]]) into nonsensical shapes if you keep walking.
+- The [[Pillar]] of Lot.
+- At any rate, it all seems on [[Brand]] with the [[Artistic]] [sensibilities]([[Sensibility]]) of the artist who created it all.
+- There's no way I have a moment of creative [[Clarity]].
+- ## 开始逛商品区
+- You should definitely check out the [[Thrift]] shop.
+- The [[Donut]] shop is by far the best, in my opinion.
+- [[Munch]], munch. These donuts are so [[Yummy]].
+- The [sneakers]([[Sneaker]]) I pointed out are pretty [[Tasty]], too.
+- One [[Stall]] stood out amongst the rest, a wide variety of [[Merchandise]] [[Prominently]] on display. #card
+- You can't continue in the art world without securing a [[Patron]] first, though.
+- Not to [[Brag]], but I know everyone's names and faces!
+- My [[Reputation]] [precedes]([[Precede]]) me, huh?
+- A [[Premium]] quality reaper's scythe.（收割者镰刀）
+- The owner's hand-made [[Furniture]] corner includes small chairs, a [[Wardrobe]], a clothes [[Rack]], and a couple other matching wooden pieces.
+- The store is so [[Shoddy]] it looks like it's about to go out of business.
+- She's got stuff like [lizards]([[Lizard]]) [pickled]([[Pickle]]) in [[Honey]] and [[Jewelry]] made from human [[Fingernail]].
+- Word on the street is she [dabbles]([[Dabble]]) in [drugs]([[Drug]]) as well.
+- Based on the way they seem to almost [[Spit]] the word out, it might be narcotics（麻醉毒品）
+- Looking at the shop with a mix of [[Disgust]] and [[Intrigue]].
+- She [hugs]([[Hug]]) her bag of goodies tightly to her chest.
+- Very [[Shady]]. You're acting [[Mighty]] [[Fishy]].
+- No way! You'll just try and [[Swipe]] it!
+- ## 回到 art gallery
+- We head to the art gallery, where we [[Bump]] into someone unexpected.
+- From the way he's talking, it sounds like he'll [escorting]([[Escort]]) us to the meeting spot.
+- Sister Lili is there when we arrive, sitting in a [[Lounge]] chair.
+- There was once a [[Grand]] [[Civilization]]. Everything was [wiped]([[Wipe]]) out about one hundred years ago.
+- The [[Mural]] [[Stretch]] the full length of the wall.
+- Her words are [[Crisp]] and clear.
 -
 -
 -
