@@ -4,6 +4,12 @@
 - Pass the [[Soy]] [[Sauce]], Dad
 - [[Eager]] to work, I roll up my [sleeves]([[Sleeve]]) #card
 - We're out of [[Soy]] [[Sauce]]. Also, we need [[Detergent]] and [tissues]([[Tissue]]) as well. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T00:19:47.409Z
+  card-last-score:: 1
 	- aunt 希望主角去 go shopping
 - I [[Twist]] the [[Throttle]] and [[Depart]]. #card
 - A [[Lone]] girl is standing still at the [[Dock]] with her back with me. #card

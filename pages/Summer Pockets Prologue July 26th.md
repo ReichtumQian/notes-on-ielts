@@ -7,18 +7,42 @@
 - You don't need to [[Flatter]] me. #card
 	- Umi 说主角不用讨好她（说她的炒饭好吃）
 - She's completely taken the [[Initiative]] here. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T10:05:29.401Z
+  card-last-reviewed:: 2024-08-03T03:05:29.402Z
+  card-last-score:: 3
 	- Umi 完全掌握了主动权
 - We're playing rock-paper-[scissors]([[Scissor]]) #card
 	- 石头剪刀布
 - There are things like taking out the [[Trash]] and getting [groceries]([[Grocery]]). #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T02:25:29.652Z
+  card-last-reviewed:: 2024-08-03T00:25:29.652Z
+  card-last-score:: 5
 - I'm going to get out of doing the [[Laundry]].
 - I don't want to have to wash and dry your [[Underwear]]. Man, you're pretty [[Blunt]]. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T07:48:09.692Z
+  card-last-reviewed:: 2024-08-03T00:48:09.693Z
+  card-last-score:: 3
 	- Umi 不想帮忙洗内衣
 - What are you [grinning]([[Grin]]) for? you lost. #card
 	- 在石头剪刀布上捉弄 Umi，觉得很好玩
 - It kind of gives this place the feeling of a [[Cozy]] [[Antique]] store. #card
 - Inside the storage shed, I find Kyouko-san already hard at work, moving a few [[Bulky]] items. #card
 - I [[Tap]] the motorcycle. I put on my [[Helmet]] and get on the bike. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T04:48:01.224Z
+  card-last-reviewed:: 2024-08-03T02:48:01.225Z
+  card-last-score:: 5
 - I put my hand on the [[Throttle]].
 - Just by riding on the motorcycle, the [[Stuffy]] summer air turns into a cool breeze. #card
 - [Enveloped]([[Envelop]]) by the [[Scent]] of the sea breeze. #card
@@ -27,8 +51,20 @@
 - It has a long, [[Fluffy]] tail and [[Pointy]] ears.
 	- 小宠物
 - It's so loud that I'd call it more of a [[Shriek]] than a [[Scream]]. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T07:44:48.436Z
+  card-last-reviewed:: 2024-08-03T00:44:48.438Z
+  card-last-score:: 3
 	- 苍从睡梦中被叫醒，很惊讶
 - You aren't trying to [[Violate]] me, are you?! #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T00:22:40.574Z
+  card-last-score:: 1
 	- 苍被叫醒后把主角当成坏人了
 - I was just [assaulted]([[Assault]]) by a guy I don't know. #card
 - What a [[Whimsical]] girl.
@@ -46,13 +82,37 @@
 - At that instant, the air around my ears suddenly [bursts]([[Burst]]).
 	- 好基友被水枪攻击了
 - It's a [[Nude]] hunter. An anti-nude who hunts down men who live [naked]([[Naked]]) like you and me. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T04:00:07.981Z
+  card-last-reviewed:: 2024-08-03T02:00:07.984Z
+  card-last-score:: 5
 - I wave my hand back and [[Forth]] to [[Refute]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T03:20:31.272Z
+  card-last-score:: 1
 	- 我反驳说我平时不是裸着的
 - Put your hands up and [[Surrender]]. #card
 - The guy [groans]([[Groan]]) and falls to the ground. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T02:53:53.876Z
+  card-last-score:: 1
 	- 好基友被水枪击中了
 - A [[Rifle]]
 - There's just a [[Stream]] of water shooting out of the [[Barrel]] of girl's [[Rifle]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T02:32:09.226Z
+  card-last-score:: 1
 - She points her finger at me and [frowns]([[Frown]]). #card
 - That [[Granny]]?!
 	- 老奶奶把故事告诉Hairi了
@@ -70,10 +130,22 @@
 - [[Appraisal]] result: 30 yen. #card
 	- 小孩们对偷走的衣服估价
 - There's nothing wrong with reading [[Romance]] manga. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T02:28:04.510Z
+  card-last-reviewed:: 2024-08-03T00:28:04.511Z
+  card-last-score:: 5
 	- 男主的朋友借给他的爱情漫画
 - I didn't know that swim trunks are so [[Trendy]] among young people.
 - Even though I won most of our rock-paper-scissors [matches]([[Match]]), I ended up taking on most of the cleaning chores.
 - Why were you [sniffing]([[Sniff]]) the bathwater? #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T04:56:32.268Z
+  card-last-reviewed:: 2024-08-03T02:56:32.269Z
+  card-last-score:: 5
 - Are you trying to [[Flirt]] with me? Instinctively, I [[Blurt]] our laughing. #card
 - I'm struck with a sense of [[Anxiety]].
 - She can [[Kick]] just fine, but she's barely moving forward.

@@ -82,6 +82,12 @@
   card-last-score:: 3
 	- 在说当前黑猩猩老大 David 的对手
 - He's strong but [[Grey]]-[bearded]([[Beard]]) and past the age he would challenge for the role of alpha. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T08:54:41.350Z
+  card-last-reviewed:: 2024-08-03T01:54:41.353Z
+  card-last-score:: 3
 	- 在说黑猩猩老大 David 的盟友
 - [Grooming]([[Groom]]) builds bonds of friendship. #card
   card-last-interval:: 3.32
@@ -153,6 +159,12 @@
   card-last-score:: 5
 	- 大火摧毁了食物和庇护所
 - Water is becoming [[Perilously]] [[Scarce]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T03:20:21.176Z
+  card-last-score:: 1
 	- 大火后水很短缺
 - The group must [[Stick]] together to survive. #card
 - KL is proving to be a [[Loyal]] [[Ally]] to David. #card
@@ -185,9 +197,21 @@
 	- Luthor（对手猩猩）被吓住了
 - Without a [[Blow]] being [struck]([[Strick]]), David is back. #card
 - David is finally reunited with his [[Comrade]], KL. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T04:45:58.279Z
+  card-last-reviewed:: 2024-08-03T02:45:58.280Z
+  card-last-score:: 5
 	- David 与 KL 重新结盟
 - [Exhausted]([[Exhaust]]) and [[Fragile]], he's only [hanging on]([[Hang on]]) to his leadership by a [[Thread]]. #card
 - With a [[Submissive]] [[Gesture]], he seeks forgiveness from David. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T02:29:40.501Z
+  card-last-reviewed:: 2024-08-03T00:29:40.502Z
+  card-last-score:: 5
 	- 对手祈求 David 的原谅
 - There is water everywhere and [[Glut]] of food. #card
 - The [[Pressure]] on the group is [lifted]([[Lift]]). #card
@@ -195,8 +219,26 @@
 - He [gorges]([[Gorge]]) on everything he can find. #card
 	- David 需要狂吃恢复体力
 - Soon, another female will be ready to [[Mate]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T05:04:41.853Z
+  card-last-reviewed:: 2024-08-03T03:04:41.854Z
+  card-last-score:: 5
 - To prevent a [[Recurrence]] of [[Dissent]] in the [[Ranks]] . #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T07:16:31.370Z
+  card-last-reviewed:: 2024-08-03T00:16:31.371Z
+  card-last-score:: 3
 - Her [swelling]([[Swell]]) doesn't go unnoticed. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T07:27:26.448Z
+  card-last-reviewed:: 2024-08-03T00:27:26.448Z
+  card-last-score:: 3
 	- 猩猩臀部红肿代表进入了发情期
 - None of his rivals [[Dare]] to challenge him
 - By being Alpha, David will have sired(当父亲) twice as many [[Offspring]] as any other member of the group.

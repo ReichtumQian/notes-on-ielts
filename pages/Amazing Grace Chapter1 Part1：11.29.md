@@ -59,6 +59,12 @@
 - I see two horses pulling a [[Carriage]] with a woman inside.#card
 - Cars, to me, are generally [automobiles]([[Automobile]]).
 - That [[Merry]]-go- [[Round]] looks like something out of a [[Fairy]] [[Tale]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T05:16:16.907Z
+  card-last-reviewed:: 2024-08-03T03:16:16.907Z
+  card-last-score:: 5
 	- Merry-go-round 指的是旋转木马
 - [[Bell]] tower.
 - This spot's really [[Picturesque]].
@@ -70,12 +76,30 @@
 - It's like there's something. Right on the [[Tip]] of my [[Tongue]]. #card
 	- 好像有想说的，但是说不出
 - Just take a deep breath, and remove the [chains]([[Chain]]) holding back your memories! #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T02:38:42.414Z
+  card-last-reviewed:: 2024-08-03T00:38:42.415Z
+  card-last-score:: 5
 - I [[Muse]] over the name while my [[Gaze]] plays over the front entrance. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T02:32:18.644Z
+  card-last-score:: 1
 - There really doesn't seem to be any [[Rhyme]] or reason to this.
 - We were greeted by a fantastical garden dominated by an [[Opulent]] lion-shape [[Fountain]].
 - Yune [whispers]([[Whisper]]) something in Sakuya's ear.
 - I was [tossed]([[Toss]]) into this closed-off world from the outside.
 - My [[Presence]] [messes]([[Mess]]) with the very foundations of this town. I am a harmful [[Entity]] that must be [destroyed]([[Destroy]]). #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T05:02:11.219Z
+  card-last-reviewed:: 2024-08-03T03:02:11.220Z
+  card-last-score:: 5
 - Okay! Camera's in place! All that's left is to set up the [props]([[Prop]]). #card
 	- 校园里有人在拍照
 - Let's [[Shoot]] the flying bird [[Scene]] in front of the blue sky [[Backdrop]].
@@ -92,6 +116,12 @@
 - There's another [[Murmur]] of agreement from the group, but I'm still [[Skeptical]].
 - Feel free to [[Adlib]] the lines.
 - I turn to see a tall, [[Slender]] girl. To call her [[Stunning]] would be an [[Understatement]]. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T10:07:33.373Z
+  card-last-reviewed:: 2024-08-03T03:07:33.373Z
+  card-last-score:: 3
 	- 看到了 Kotoha
 - Sorry that Kirie dragging you into this, but it's as [[Pathetic]] as it sounds. We have no star for our next [[Film]].
 - In contrast to the [[Diminutive]] Kirie, she seems taller than me, her amazing [[Posture]] [boosting]([[Boost]]) her height.
@@ -110,11 +140,23 @@
 	- 深情地演戏
 - Up until yesterday, when you suddenly dashed into a [[Jewelry]] store, [ditching]([[Ditch]]) me.
 - I [[Envelop]] Kotoha in a [[Passionate]] [[Embrace]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T04:31:58.061Z
+  card-last-reviewed:: 2024-08-03T02:31:58.062Z
+  card-last-score:: 5
 - Figuring I don't have a chance at keeping up with the [[Dialogue]].
 - The most [anticipated]([[Anticipate]]) scene in any [[Romance]] film -- the big kiss.
 - When it comes to [finales]([[Finale]]), you gotta go out with a bang!
 - I'm glad I managed to [[Dodge]] it.
 - Just as our lips were about to touch, Kotoha [[Deftly]] leapt out of the way, leaving me to bear the entire [[Brunt]] of the [[Blast]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T02:01:42.850Z
+  card-last-score:: 1
 	- 拍摄结束时发生了烟火爆炸
 - Smoke curls up lazily from where we'd been standing a moment ago, a [scorched]([[Scorch]]) [[Scent]] [wafting]([[Waft]]) in the air, mixed, oddly enough, with soap.
 - And what's with the [[Smug]] self-confidence.
@@ -139,6 +181,12 @@
 - I admire her [[Generosity]].
 - My clothes weren't [ripped]([[Rip]]) on purpose!
 - We once again return to Palm Dorm, the starting point for today's exciting [[Excursion]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T00:22:27.280Z
+  card-last-score:: 1
 - Yet it feels so [[Cozy]] and welcoming.
 - You [[Jerk]]! Do you know how much time I spent make that!
 - So kirie [roped]([[Rope]]) you into her movie, huh?

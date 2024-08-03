@@ -2,6 +2,12 @@
 - [Google CEO Sundar Pichai and the Future of AI | The Circuit (youtube.com)](https://www.youtube.com/watch?v=5puu3kN9l7c&ab_channel=BloombergOriginals)
 -
 - Sundar Pichai is at a [[Pivotal]] moment. He's the CEO of Google. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T02:33:07.479Z
+  card-last-score:: 1
 - Pichai has been carefully [crafting]([[Craft]]) strategy that [infuses]([[Infuse]]) AI into every corner of the business. #card
 - OpenAI seemingly [knocked]([[Knock]]) Google off its [[Perch]].
 - But for Pichai, the [[Frenzy]] is just part of the long game.
