@@ -11,6 +11,12 @@
 - There are a few houses [sprinkled]([[Sprinkle]]) along the [[Coast]]. #card
 	- 海岸旁零星分布着一些小屋
 - I [[Squint]] my eyes as the ocean [[Breeze]] starts [blowing]([[Blow]]) in my face. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T11:18:53.156Z
+  card-last-score:: 1
 - caught up in a [[Gust]] of wind.
 - It looks as though a [[Clump]] of white clouds had fallen from the sky.
 	- 形容白羽
@@ -25,6 +31,12 @@
   card-last-reviewed:: 2024-08-03T00:38:33.679Z
   card-last-score:: 3
 - The old lady is trying to [[Drag]] her [[Suitcase]] off the ship. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T14:04:43.740Z
+  card-last-reviewed:: 2024-08-03T12:04:43.741Z
+  card-last-score:: 5
 - I [[Dash]] toward her and hold my hand out. #card
 	- 我走向老奶奶，帮忙拎东西
 - As I help carry the old lady's [[Luggage]] off the boat. #card
@@ -43,6 +55,12 @@
   card-last-score:: 5
 - A [[Paradise]] for birds who have forgotten how to fly. #card
 - An [[Oasis]] where one's [sins]([[Sin]]) are [cleansed]([[Cleanse]]). #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T11:58:25.957Z
+  card-last-score:: 1
 - It's [ridiculously]([[Ridiculous]]) hot. #card
 - The sun has been beating down on me mercilessly, almost to the point that I could hear its [beams]([[Beam]]). #card
 - And coupled with the [[Chorus]] of [cicadas]([[Cicada]]), the heat has been several times more unbearable. #card
@@ -57,14 +75,32 @@
 - I must be getting close to the [[Residential]] area.
 - It's Takahara, your [[Nephew]].
 - Pardon my [[Intrusion]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T14:02:59.604Z
+  card-last-reviewed:: 2024-08-03T12:02:59.604Z
+  card-last-score:: 5
 	- 没有人回应，因此直接进入 aunt's house
 - The [sliding]([[Slide]]) door has been left open, giving the room a nice [[Airy]] feel. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T18:53:00.193Z
+  card-last-reviewed:: 2024-08-03T11:53:00.194Z
+  card-last-score:: 3
 	- 滑门开着，很通风
 - I step out into the inner [[Courtyard]] and [[Stroll]] around. #card
 - There's a [[Shed]].
 - She seems [awkwardly]([[Awkward]]) [[Hesitant]]. #card
 	- 姑姑有点尬尴
 - I [[Gulp]] down the cold [[Barley]] tea in one go. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T11:55:01.385Z
+  card-last-score:: 1
 - Seeing that, Kyouko-san(姑妈) [chuckles]([[Chuckle]]) a little and fills my cup again. #card
   card-last-interval:: 4.1
   card-repeats:: 1
@@ -73,6 +109,12 @@
   card-last-reviewed:: 2024-08-03T03:04:39.444Z
   card-last-score:: 5
 - I [[Peer]] out the window at the island's [[Scenery]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T13:58:48.664Z
+  card-last-reviewed:: 2024-08-03T11:58:48.665Z
+  card-last-score:: 5
 - It's a [[Relative]]?
 - The only [[Impression]] I ever had of my grandmother were the [[Exotic]] gifts. #card
 - In [[Accordance]] with her wishes, our family held a small private [[Funeral]] instead of a traditional funeral [[Ceremony]]. #card
@@ -173,6 +215,12 @@
   card-last-score:: 1
 	- 现在不用去完全探索 lighthouse
 - But what would be making a [splashing]([[Splash]]) sound? #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T11:12:38.037Z
+  card-last-score:: 1
 	- 为什么会有泼水声
 - Judging from its size, it's likely an [[Elementary school]]. #card
 - There are some tiny [ripples]([[Ripple]]) in the pool. #card
@@ -192,8 +240,20 @@
 - It's almost like the pool's [[Guardian]] [[Deity]] has [manifested]([[Manifest]]) itself. #card
 	- 把白羽当成泳池守护神了
 - She's probably [[Apprehensive]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T11:19:28.452Z
+  card-last-score:: 1
 	- 白羽被人发现后有点不安
 - I [[Pound]] my chest and say I'm not bad person. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T13:21:52.121Z
+  card-last-reviewed:: 2024-08-03T11:21:52.121Z
+  card-last-score:: 5
 - Which way should I go to get the Katou [[Residence]]. #card
 - Take a left when you reach the [[Intersection]]. #card
 	- 白羽给主角指路
@@ -224,6 +284,12 @@
   card-last-reviewed:: 2024-08-03T03:16:03.662Z
   card-last-score:: 5
 - What's with this [[Bathtub]]. So I probably just have to turn it on like a gas [[Stove]]. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T18:24:07.425Z
+  card-last-reviewed:: 2024-08-03T11:24:07.427Z
+  card-last-score:: 3
 	- 浴缸是用 gas 的
 - I look at the [[Vapor]].
 - Options: The [[Aroma]] of milk,

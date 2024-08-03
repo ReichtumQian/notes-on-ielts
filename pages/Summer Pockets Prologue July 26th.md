@@ -35,6 +35,12 @@
 - What are you [grinning]([[Grin]]) for? you lost. #card
 	- 在石头剪刀布上捉弄 Umi，觉得很好玩
 - It kind of gives this place the feeling of a [[Cozy]] [[Antique]] store. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T18:47:40.266Z
+  card-last-reviewed:: 2024-08-03T11:47:40.268Z
+  card-last-score:: 3
 - Inside the storage shed, I find Kyouko-san already hard at work, moving a few [[Bulky]] items. #card
 - I [[Tap]] the motorcycle. I put on my [[Helmet]] and get on the bike. #card
   card-last-interval:: 4.1
@@ -45,6 +51,12 @@
   card-last-score:: 5
 - I put my hand on the [[Throttle]].
 - Just by riding on the motorcycle, the [[Stuffy]] summer air turns into a cool breeze. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T18:52:01.112Z
+  card-last-reviewed:: 2024-08-03T11:52:01.113Z
+  card-last-score:: 3
 - [Enveloped]([[Envelop]]) by the [[Scent]] of the sea breeze. #card
 	- 骑摩托很爽
 - Over at the [[Harbor]], judging from the wake flowing along the water's surface, it seems the [[Ferry]] has just [taken off]([[Take off]]). #card
@@ -67,6 +79,12 @@
   card-last-score:: 1
 	- 苍被叫醒后把主角当成坏人了
 - I was just [assaulted]([[Assault]]) by a guy I don't know. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T13:58:10.463Z
+  card-last-reviewed:: 2024-08-03T11:58:10.464Z
+  card-last-score:: 5
 - What a [[Whimsical]] girl.
 - I'm not that strong [mentally]([[Mental]]).
 	- 被苍吐槽了，有点撑不住
@@ -119,6 +137,12 @@
 - I know. It's just a [[Metaphor]]
 - She's speaks with a [[Haughty]] [[Tone]].
 - I'll [[Overlook]] this today. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T13:19:05.155Z
+  card-last-reviewed:: 2024-08-03T11:19:05.156Z
+  card-last-score:: 5
 	- 今天绕过主角不穿衣服
 - The guy laughs happily, [brushes]([[Brush]]) his hair up, and [winks]([[Wink]]) for some reason.
 - He's way too [[Persistent]].
@@ -128,6 +152,12 @@
 	- 烦色特了反映出白羽有多讨厌主角
 - I go [[Retrieve]] the bike that I abandoned and head home. #card
 - [[Appraisal]] result: 30 yen. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T11:11:51.179Z
+  card-last-score:: 1
 	- 小孩们对偷走的衣服估价
 - There's nothing wrong with reading [[Romance]] manga. #card
   card-last-interval:: 4.1

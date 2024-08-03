@@ -42,6 +42,12 @@
 - I'm some [[Bizarre]], out-of-place [[Presence]], and yes Yune still treats me kindly, without [[Prejudice]]. #card
 - Despite knowing nothing about what lay outside their [[Sphere]] of existence.
 - Thanks to having been bedridden earlier today, my body feels like [rusted]([[Rust]]) [[Metal]] in need of oil. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T12:03:22.364Z
+  card-last-score:: 1
 - Sakuya hands me a shirt and a [[Sweater]]. #card
 - I like to make little [outfits]([[Outfit]]) sometimes. #card
 - They looked like [miniatures]([[Miniature]]) so high up that. #card
@@ -49,6 +55,12 @@
 - Do you think a word might [[Trigger]] your memory.
 - [[Curry]]：男主最爱的食物
 - [Granted]([[Grant]]), I can't be sure I've heard about St. Aria Academy before. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T18:41:17.464Z
+  card-last-reviewed:: 2024-08-03T11:41:17.465Z
+  card-last-score:: 3
 	- 表示同意
 - Maybe going to the school will [[Jog]] something [[Loose]]?
 - This is the shopping [[District]]. It's full of stores.
@@ -109,6 +121,12 @@
 - It's probably better to keep my mouth [[Shut]].
 	- 好像要抓人当主角
 - As I stand there [bewildered]([[Bewilder]]). She [grabs]([[Grab]]) my hand in hers and [yanks]([[Yank]]) me toward the group. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T12:02:42.522Z
+  card-last-score:: 1
 - Her suggestion is immediately met with a [[Chorus]] of agreement from the group. It's [[Unanimous]] then.
 	- 男主被抓去当主角了
 - That's right, I'm [scouting]([[Scout]]) you!
@@ -137,6 +155,12 @@
 - Not even a week ago you [accused]([[Accuse]]) me of cheating on you! How could you double my [[Fidelity]]. #card
 	- 在演戏求婚
 - She's taking the lead, trying to ease me in while [tugging]([[Tug]]) on the [[Audience]]'s heartstrings. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T12:04:39.179Z
+  card-last-score:: 1
 	- 深情地演戏
 - Up until yesterday, when you suddenly dashed into a [[Jewelry]] store, [ditching]([[Ditch]]) me.
 - I [[Envelop]] Kotoha in a [[Passionate]] [[Embrace]]. #card

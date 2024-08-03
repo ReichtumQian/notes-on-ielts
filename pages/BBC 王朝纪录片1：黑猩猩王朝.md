@@ -66,6 +66,12 @@
   card-last-reviewed:: 2024-07-28T05:43:31.293Z
   card-last-score:: 3
 - He knows two particularly [[Ambitious]] rivals. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T13:55:04.357Z
+  card-last-reviewed:: 2024-08-03T11:55:04.358Z
+  card-last-score:: 5
 - David's [toes]([[Toe]]) begin to [[Twitch]], a nervous [[Tic]] he cannot [[Conceal]]. #card
   card-last-interval:: 3.32
   card-repeats:: 1
@@ -193,9 +199,21 @@
 	- 新猩猩领袖试图获得控制权
 - [[Friendless]] and [wounded]([[Wound]]), David [musters]([[Muster]]) the energy to search for food. #card
 - He has to rejoined the group before he's [exiled]([[Exile]]) for good. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T11:59:59.342Z
+  card-last-score:: 1
 - [Intimidated]([[Intimidate]]), Luthor has to run. #card
 	- Luthor（对手猩猩）被吓住了
 - Without a [[Blow]] being [struck]([[Strick]]), David is back. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T13:58:44.822Z
+  card-last-reviewed:: 2024-08-03T11:58:44.823Z
+  card-last-score:: 5
 - David is finally reunited with his [[Comrade]], KL. #card
   card-last-interval:: 4.1
   card-repeats:: 1
