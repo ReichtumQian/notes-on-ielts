@@ -1,0 +1,12 @@
+## Morning
+- 昨晚刚刚和 Yune 吃了 forbidden fruit
+- [[Yawn]], what day is it?
+- Yune's hair is a mess of [tangles]([[Tangle]]) and [curls]([[Curl]]). #card
+- That's pretty [[Romantic]], actually.
+- I [[Avert]] my [[Gaze]], which is exactly what Yune is doing.
+- It seems we've both been [distracted]([[Distract]]) by the same thing. #card
+	- Yune 和男主都在想吃 Forbidden fruit 的事情
+- I can see better with the sunlight [filtering]([[Filter]]) through the branches, enough to know her [[Hypothesis]] makes no sense. #card
+	- Yune 说可不可能是树上掉的苹果，显然不成立
+-
+-

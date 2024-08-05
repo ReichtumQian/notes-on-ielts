@@ -4,4 +4,6 @@
 - [[Amazing Grace Chapter1 Part2：11.30]]
 - [[Amazing Grace Chapter1 Part3: 12.1]]
 - [[Amazing Grace Chapter1 Part4: 12.2]]
+- [[Amazing Grace Chapter2 Part1: 12.3]]
+-
 -
