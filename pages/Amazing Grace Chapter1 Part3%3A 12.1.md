@@ -34,6 +34,34 @@
 - There was once a [[Grand]] [[Civilization]]. Everything was [wiped]([[Wipe]]) out about one hundred years ago.
 - The [[Mural]] [[Stretch]] the full length of the wall.
 - Her words are [[Crisp]] and clear.
+- It's a great blessing that [miraculously]([[Miraculous]]) saved our town from destruction.
+- A [[Miracle]] that saved the town ...
+- 101 years ago, the apocalypse(世界末日) brought about the end of [[Humanity]].
+- Sister Lili closes her eyes, as if [meditating]([[Meditate]]), before speaking. #card
+- Although if all life on Earth really had been [extinguished]([[Extinguish]]). #card
+- The [[Remnant]] of the [[Apocalypse]].
+- Declaring my discomfort only further label me a [[Heretic]].
+- Tomorrow is the start of [[Advent]].
+- ## 回到 Dorm
+- Let's hurry back and have some guy time in the [[Tub]]. #card
+	- 准备洗澡
+- The three of us [[Rinse]] off the sweat from a long day. #card
+- Although I find it almost [[Peculiar]] how much our values seem to differ.
+- I'm [lounging]([[Lounge]]) in my room following dinner when I hear something [[Smash]] against my window. #card
+- My first thought is that it must be a snowstorm, but I can't [[Muster]] the energy to get out of bed and check. #card
+- Afraid the [[Barrage]] of banging will break the glass.
+- She enters my room through the window, [[Murderous]] [[Rage]] blazing in her eyes.
+- She's seething with anger, like an [[Inferno]] of [[Glorious]] [flames]([[Flame]]) of azure [[Fury]].
+- [[Revenge]].
+- Tell me the most [[Despicable]] things people have done on the outside.
+- Seeing her camera. I quickly get the [[Gist]] of her plan.
+- You want some kind of [[Candid]] camera thing?
+- You find a target and [[Prank]] them in some way.
+- My mind is [[Ablaze]] with so many great ideas. This is gonna be a [[Riot]].
+- Now I'm an [[Accomplice]].
+- Wooo! I haven't felt this [pumped]([[Pump]]) in while.
+-
+-
 -
 -
 -

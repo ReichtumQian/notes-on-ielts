@@ -1,0 +1,7 @@
+- 本文讲述了 Stoicism 主义的内容和价值
+-
+- [[Ancient]] [[Philosophy]] is not just about talking or lecturing.
+- In fact, it is something people have used throughout history - to solve their problems and to achieve their greatest [triumphs]([[Triumph]]).
+- Adam Smith's ideas on [[Capitalism]] were influenced by Stoism.
+-
+-

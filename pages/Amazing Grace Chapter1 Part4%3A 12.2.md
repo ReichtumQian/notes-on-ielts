@@ -1,0 +1,28 @@
+- 准备迎接圣诞节了
+- ## Morning
+- The chapel is [crammed]([[Cram]]) full of students.
+- It seems like a fairly important time in the [[Christian]] [[Faith]].
+- Wherever she might be [loitering]([[Loiter]]) around right now, it's clear how [[Faithful]] she is.
+- The people will [[Faint]] from fear of what the future holds for them.
+- Seeing the [[Disturbance]] in the Heavens above.
+- Perhaps our town will [[Undergo]] a [[Reformation]] of sorts someday as well.
+- The whole town feels more [[Festive]] and Chrismas.
+- The town's people do seem more [[Restless]] than usual.
+- The weather might be [[Frightful]].
+- It seems like it gets more [[Extravagant]] every year.
+- The name of the [[Explosive]]. She names her [bombs]([[Bomb]]) after the soap she used to make them.
+	- 炸药的名称
+- It's an old drama club secret [[Recipe]].
+	- Kirie 的炸药配方
+- In other words, danger [lurks]([[Lurk]]) around every corner!
+- Last year's [[Climactic]] [[Finale]] was pretty bad.
+- You're not afraid of getting caught red handed with a bunch of neighborhood [[Cop]]?
+- Those who [[Confide]] in a [[Priest]] about their issues.
+- It's where they thoroughly [[Chew out]] students who [[Misbehave]].
+- The room of [[Rebuke]]!
+- ## 回到 Dorm
+- That yellow cable connects to the [[Projector]].
+- The [[Blizzard]] [[Bomber]]: Winter's [[Siege]].
+	- 电影名：暴雪投弹手：冬日围攻？
+-
+-

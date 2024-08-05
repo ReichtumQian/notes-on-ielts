@@ -1,0 +1,17 @@
+- 这篇第二部分挺难的
+- ## Questions 11-14
+- He set up this company when he finished his [[Apprenticeship]], in 1926.
+- And for the [[Automotive]] industry, that is, cars and [lorries]([[Lorry]]).
+-
+-
+- ## Questions 15-20
+- [[Reception]]：接待处
+- [[Warehouse]]：仓库
+- Staff [[Canteen]]：食堂
+- [[Boardroom]]：董事会议室
+- 翻译：You can get to the warehouse by [crossing]([[Cross]]) to the far side of the [[Courtyard]], and then the door is on your right. #card
+	- 你可以穿过院子的远端到达仓库，然后门就在你的右边。
+- 翻译：I can confidently say that the food's very good, but the [[View]] isn't. #card
+-
+-
+-

@@ -1,0 +1,19 @@
+- 本文主要讲了两位学生要做一个关于鸟类画的研究，并需要提交一个 [[Proposal]].
+-
+- ## Question 21-24
+- By giving a [[Rationale]] for their action plans.
+- By being less specific about the [[Outcome]].
+- By making their notes more [[Evaluative]].
+- When they gave us all those handouts with details of books and websites to look at, I was really [[Put off]].
+- I found I could research so many different aspects of birds in art-color, movement, [[Texture]].
+- What a [[Letdown]]. It [poured]([[Pour]]) with rain and we hardly saw a single bird.
+- Have you [drafted]([[Draft]]) your [[Proposal]] yet?
+-
+-
+- ## Question 25-30
+- [[Falcon]]
+- Fish [[Hawk]]
+- [[Portrait]] of William Wells
+- To me it's about how [[Ambiguous]] people are in the way they [[Exploit]] the natural world.
+-
+-

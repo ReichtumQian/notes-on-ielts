@@ -1,0 +1,9 @@
+-
+- Children's Engineering [[Workshop]]. #card
+- Build model cars, [trucks]([[Truck]]) and animals. #card
+- Build, [[Decorate]] and program a humanoid robot. #card
+- Held on __ （星期三） from 10am to 11 am. #card
+	- [[Wedesday]]
+-
+-
+-
