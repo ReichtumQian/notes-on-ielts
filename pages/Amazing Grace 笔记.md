@@ -5,5 +5,8 @@
 - [[Amazing Grace Chapter1 Part3: 12.1]]
 - [[Amazing Grace Chapter1 Part4: 12.2]]
 - [[Amazing Grace Chapter2 Part1: 12.3]]
+- [[Amazing Grace Chapter2 Part2: 12.4]]
+- [[Amazing Grace Chapter2 Part3: 12.5]]
+-
 -
 -

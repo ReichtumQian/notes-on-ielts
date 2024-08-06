@@ -1,0 +1,7 @@
+-
+- The charts below show the changes in [[Ownership]] of electrical [appliances]([[Appliance]]) and amount of time spent doing housework in [households]([[Household]]) in one country between 1920 and 2019.
+- Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+-
+-
+-
+-

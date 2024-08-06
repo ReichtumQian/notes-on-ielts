@@ -1,0 +1,7 @@
+-
+- I'm sure it's simply an [[Illusion]].
+	- 看见苹果是 Illusion
+- She looks up into my face, almost [pleading]([[Plead]]). Her eyes, usually [[Devoid]] of expression, [[Glisten]] with tears.
+-
+-
+-

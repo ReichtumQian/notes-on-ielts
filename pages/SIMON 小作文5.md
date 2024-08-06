@@ -1,0 +1,9 @@
+-
+- The chart below shows the total number of minutes (in billions) of telephone calls in the UK, divided into three categories,from1995-2002.
+- ![image.png](../assets/image_1722942338351_0.png){:height 374, :width 472}
+- ## 解题思路
+-
+-
+-
+-
+-

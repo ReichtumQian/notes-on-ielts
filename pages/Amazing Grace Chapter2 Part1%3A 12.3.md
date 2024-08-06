@@ -8,5 +8,9 @@
 	- Yune 和男主都在想吃 Forbidden fruit 的事情
 - I can see better with the sunlight [filtering]([[Filter]]) through the branches, enough to know her [[Hypothesis]] makes no sense. #card
 	- Yune 说可不可能是树上掉的苹果，显然不成立
+- But no matter how hard we [[Ponder]] the possibilities, we come up empty.
+- Yune's [[Hunch]] tend to be pretty [[Spot-on]].
+- I try listening [[Intently]].
+- Excitement races through my [veins]([[Vein]]) in [[Anticipation]] of what new adventures tomorrow brings.
 -
 -
