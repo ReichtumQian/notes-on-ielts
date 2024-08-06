@@ -1,0 +1,17 @@
+-
+- 本文讲述了北极熊的故事，包括其基因和习性，以及人类需要保护北极熊。
+-
+- [[Polar]] bears.
+- They are uniquely adapted to the extreme conditions of the [[Arctic]] Circle, where temperatures can reach -40℃.
+- Humans with [[Comparative]] levels of [[Adipose]] [[Tissue]] would be considered [[Obese]] and would be likely to suffer from [diabetes]([[Diabetes]]) and heart disease. Yet the polar bear experiences no such consequences.
+	- 具有相当水平的脂肪组织的人被认为是肥胖，并且可能患有糖尿病和心脏病，但北极熊不会有这样的后果。
+- A 2014 study by Shi Ping Liu and colleagues [sheds light on]([[Shed light on]]) this mystery.
+- In humans, [mutations]([[Mutation]]) of this gene are associated with increased risk of heart disease.
+- Once autumn comes around, these females will dig [[Maternity]] [dens]([[Den]]) in the snow and will remain there throughout the winter, both before and after the birth of their [cubs]([[Cub]]).
+- This process results in about six months of [[Fasting]], where the female bears have to keep themselves and their cubs alive, depleting their own [[Calcium]] and [[Calorie]] [reserves]([[Reserve]]).
+- Physiologists Alanda Lennox and Allen Goodship found an explanation for this [[Paradox]] in 2008.
+- Hibernating brown bears do not have this capacity and must therefore [[Resort]] to major bone [[Reformation]] in the following spring.
+- If the [[Mechanism]] of bone remodelling in polar bears can be understood, many bedridden humans, and even [astronauts]([[Astronaut]]), could potentially benefit.
+- In other studies, such as one by Alison Ames in 2008, polar bears showed [[Deliberate]] and focussed manipulation.
+-
+-
