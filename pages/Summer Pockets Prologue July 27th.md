@@ -3,6 +3,12 @@
 	- Umi 看向水槽，aunt 有非常 unbalanced diet
 - Pass the [[Soy]] [[Sauce]], Dad
 - [[Eager]] to work, I roll up my [sleeves]([[Sleeve]]) #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T14:53:05.506Z
+  card-last-reviewed:: 2024-08-03T12:53:05.507Z
+  card-last-score:: 5
 - We're out of [[Soy]] [[Sauce]]. Also, we need [[Detergent]] and [tissues]([[Tissue]]) as well. #card
   card-last-interval:: -1
   card-repeats:: 1

@@ -54,6 +54,12 @@
   card-last-reviewed:: 2024-08-03T03:04:46.440Z
   card-last-score:: 5
 - A [[Paradise]] for birds who have forgotten how to fly. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T14:53:07.028Z
+  card-last-reviewed:: 2024-08-03T12:53:07.029Z
+  card-last-score:: 5
 - An [[Oasis]] where one's [sins]([[Sin]]) are [cleansed]([[Cleanse]]). #card
   card-last-interval:: -1
   card-repeats:: 1
@@ -227,6 +233,12 @@
 - This is the first time I've seen a pool with so few [lanes]([[Lane]]). #card
 	- 泳池的赛道很少
 - A [[Shiver]] runs down my [[Spine]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T12:51:59.387Z
+  card-last-score:: 1
 	- 看到白羽在游泳很害怕
 - Taking a second look, schools are kind of [[Creepy]] this late at night. #card
 - I [[Spin]] around. #card
@@ -256,8 +268,20 @@
   card-last-score:: 5
 - Which way should I go to get the Katou [[Residence]]. #card
 - Take a left when you reach the [[Intersection]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T12:57:27.202Z
+  card-last-score:: 1
 	- 白羽给主角指路
 - You may think you're okay, but you could get a leg [[Cramp]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T12:56:11.985Z
+  card-last-score:: 1
 - That really [startled]([[Startle]]) me. #card
   card-last-interval:: 3.32
   card-repeats:: 1

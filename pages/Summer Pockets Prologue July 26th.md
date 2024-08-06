@@ -5,6 +5,12 @@
 - Umi-chan gives me a [[Sour]] expression.
 	- 因为主角认为早饭不是 Umi 做的
 - You don't need to [[Flatter]] me. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T12:43:24.120Z
+  card-last-score:: 1
 	- Umi 说主角不用讨好她（说她的炒饭好吃）
 - She's completely taken the [[Initiative]] here. #card
   card-last-interval:: 3.32
@@ -33,6 +39,12 @@
   card-last-score:: 3
 	- Umi 不想帮忙洗内衣
 - What are you [grinning]([[Grin]]) for? you lost. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T14:51:24.276Z
+  card-last-reviewed:: 2024-08-03T12:51:24.277Z
+  card-last-score:: 5
 	- 在石头剪刀布上捉弄 Umi，觉得很好玩
 - It kind of gives this place the feeling of a [[Cozy]] [[Antique]] store. #card
   card-last-interval:: 3.32
@@ -60,6 +72,12 @@
 - [Enveloped]([[Envelop]]) by the [[Scent]] of the sea breeze. #card
 	- 骑摩托很爽
 - Over at the [[Harbor]], judging from the wake flowing along the water's surface, it seems the [[Ferry]] has just [taken off]([[Take off]]). #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T12:42:33.305Z
+  card-last-score:: 1
 - It has a long, [[Fluffy]] tail and [[Pointy]] ears.
 	- 小宠物
 - It's so loud that I'd call it more of a [[Shriek]] than a [[Scream]]. #card
@@ -115,6 +133,12 @@
   card-last-score:: 1
 	- 我反驳说我平时不是裸着的
 - Put your hands up and [[Surrender]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T12:57:42.655Z
+  card-last-score:: 1
 - The guy [groans]([[Groan]]) and falls to the ground. #card
   card-last-interval:: -1
   card-repeats:: 1
@@ -151,6 +175,12 @@
 - Just how much did that girl [[Loathe]] me.
 	- 烦色特了反映出白羽有多讨厌主角
 - I go [[Retrieve]] the bike that I abandoned and head home. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-06T19:43:09.063Z
+  card-last-reviewed:: 2024-08-03T12:43:09.063Z
+  card-last-score:: 3
 - [[Appraisal]] result: 30 yen. #card
   card-last-interval:: -1
   card-repeats:: 1

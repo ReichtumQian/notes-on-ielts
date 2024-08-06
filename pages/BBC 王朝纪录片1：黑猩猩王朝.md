@@ -57,6 +57,12 @@
   card-last-reviewed:: 2024-07-28T05:44:04.077Z
   card-last-score:: 5
 - These [chimps]([[Chimp]]) have learned to use [[Grass]] [stems]([[Stem]]) as tools to fish out the [insects]([[Insect]]). #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T14:57:49.592Z
+  card-last-reviewed:: 2024-08-03T12:57:49.592Z
+  card-last-score:: 5
 	- 这些猩猩学会了用草棍去收集白蚁吃。
 - But he is [[Wary]], as he must feed [[Alongside]] old [enemies]([[Enemy]]). #card
   card-last-interval:: 3.32
@@ -173,6 +179,12 @@
   card-last-score:: 1
 	- 大火后水很短缺
 - The group must [[Stick]] together to survive. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T14:52:04.728Z
+  card-last-reviewed:: 2024-08-03T12:52:04.729Z
+  card-last-score:: 5
 - KL is proving to be a [[Loyal]] [[Ally]] to David. #card
   card-last-interval:: 4.1
   card-repeats:: 1
@@ -206,6 +218,12 @@
   card-last-reviewed:: 2024-08-03T11:59:59.342Z
   card-last-score:: 1
 - [Intimidated]([[Intimidate]]), Luthor has to run. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-07T14:58:39.587Z
+  card-last-reviewed:: 2024-08-03T12:58:39.588Z
+  card-last-score:: 5
 	- Luthor（对手猩猩）被吓住了
 - Without a [[Blow]] being [struck]([[Strick]]), David is back. #card
   card-last-interval:: 4.1

@@ -20,6 +20,12 @@
   card-last-reviewed:: 2024-08-03T03:14:32.460Z
   card-last-score:: 1
 - The US [sanctions]([[Sanction]]) stopped that. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-06T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T15:36:56.393Z
+  card-last-score:: 1
 	- 美国的制裁使得华为无法让台积电代工
 - They were able to [[Squeeze]] the capabilities of DUV [[Machinery]]. #card
 - In fact, the reason the [handsets]([[Handset]]) [sold out]([[Sell out]]) may have more to do with supply. #card

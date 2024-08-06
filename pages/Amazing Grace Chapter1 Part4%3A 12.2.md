@@ -29,6 +29,12 @@
 - Yune is the [[Narrator]]. #card
 - I am forced into a life of [[Solitude]], [trapped]([[Trap]]) in this forest. Will the [[Prince]] of my dreams ever arrive? #card
 - Kotoha is playing the [imprison]([[Imprison]]) [[Princess]]. Her face a mask of [[Sorrow]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T17:30:18.051Z
+  card-last-reviewed:: 2024-08-06T15:30:18.053Z
+  card-last-score:: 5
 - It's Youji -- or at least someone bearing a strong [[Resemblance]] to him. #card
 - That's why it's a [[Tragedy]]. #card
 	- 电影里面碰到 princess 就会触电，因此是悲剧
@@ -48,6 +54,12 @@
 	- Sword man 只会一招，Sword buster!
 - Princess! You mustn't do anything [[Rash]]!
 - As thanks for your brave [deeds]([[Deed]]). #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T17:30:45.539Z
+  card-last-reviewed:: 2024-08-06T15:30:45.540Z
+  card-last-score:: 5
 - Maybe don't immediately [[Strip]] naked next time!
 - I couldn't get [costumes]([[Costume]]) last year. #card
 	- 男主问为什么都穿校服表演
@@ -68,6 +80,12 @@
 - Did my [ornaments]([[Ornament]]) become real? #card
 	- 两个苹果本来是装饰物，现在变成真的了
 - I [[Stare]] at the fruit in my hand doubtfully, still [[Reluctant]] to bite into it. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-09T22:35:19.598Z
+  card-last-reviewed:: 2024-08-06T15:35:19.599Z
+  card-last-score:: 3
 - I can't do any of that, because there's something special [radiating]([[Radiate]]) from the fruit. #card
 - But by eating the forbidden fruit, you also gain [[Eternal]] life. #card
 - God wanted to make sure Man and Woman could never eat from the tree again, so he [banished]([[Banish]]) them. #card

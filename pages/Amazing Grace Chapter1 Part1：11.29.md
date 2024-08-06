@@ -51,6 +51,12 @@
 - Sakuya hands me a shirt and a [[Sweater]]. #card
 - I like to make little [outfits]([[Outfit]]) sometimes. #card
 - They looked like [miniatures]([[Miniature]]) so high up that. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T16:00:00.000Z
+  card-last-reviewed:: 2024-08-03T12:52:30.767Z
+  card-last-score:: 1
 	- 在楼顶看建筑感觉很小
 - Do you think a word might [[Trigger]] your memory.
 - [[Curry]]：男主最爱的食物
