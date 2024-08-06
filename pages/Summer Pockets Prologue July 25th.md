@@ -9,6 +9,12 @@
 	- 准备下船
 - The Torishiro Fishing [[Port]].
 - There are a few houses [sprinkled]([[Sprinkle]]) along the [[Coast]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:18:37.136Z
+  card-last-score:: 1
 	- 海岸旁零星分布着一些小屋
 - I [[Squint]] my eyes as the ocean [[Breeze]] starts [blowing]([[Blow]]) in my face. #card
   card-last-interval:: -1
@@ -38,6 +44,12 @@
   card-last-reviewed:: 2024-08-03T12:04:43.741Z
   card-last-score:: 5
 - I [[Dash]] toward her and hold my hand out. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:17:16.791Z
+  card-last-reviewed:: 2024-08-06T16:17:16.791Z
+  card-last-score:: 5
 	- 我走向老奶奶，帮忙拎东西
 - As I help carry the old lady's [[Luggage]] off the boat. #card
   card-last-interval:: 4.1
@@ -68,8 +80,20 @@
   card-last-reviewed:: 2024-08-03T11:58:25.957Z
   card-last-score:: 1
 - It's [ridiculously]([[Ridiculous]]) hot. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:38:03.816Z
+  card-last-reviewed:: 2024-08-06T16:38:03.816Z
+  card-last-score:: 5
 - The sun has been beating down on me mercilessly, almost to the point that I could hear its [beams]([[Beam]]). #card
 - And coupled with the [[Chorus]] of [cicadas]([[Cicada]]), the heat has been several times more unbearable. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:35:02.913Z
+  card-last-score:: 1
 - I firmly [[Grasp]] the bag stuffed full of items. #card
 - I've given up on [wiping]([[Wipe]]) the [beads]([[Bead]]) of [[Sweat]] that are endlessly [dripping]([[Drip]]) from my [[Forehead]] and walk [[Onward]] . #card
   card-last-interval:: -1
@@ -97,8 +121,20 @@
   card-last-score:: 3
 	- 滑门开着，很通风
 - I step out into the inner [[Courtyard]] and [[Stroll]] around. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-09T23:19:35.313Z
+  card-last-reviewed:: 2024-08-06T16:19:35.313Z
+  card-last-score:: 3
 - There's a [[Shed]].
 - She seems [awkwardly]([[Awkward]]) [[Hesitant]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T17:48:21.567Z
+  card-last-reviewed:: 2024-08-06T15:48:21.568Z
+  card-last-score:: 5
 	- 姑姑有点尬尴
 - I [[Gulp]] down the cold [[Barley]] tea in one go. #card
   card-last-interval:: -1
@@ -123,6 +159,12 @@
   card-last-score:: 5
 - It's a [[Relative]]?
 - The only [[Impression]] I ever had of my grandmother were the [[Exotic]] gifts. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:19:04.576Z
+  card-last-score:: 1
 - In [[Accordance]] with her wishes, our family held a small private [[Funeral]] instead of a traditional funeral [[Ceremony]]. #card
   card-last-interval:: 3.32
   card-repeats:: 1
@@ -162,6 +204,12 @@
   card-last-score:: 1
 	- 你来的时候走了一段斜坡对吧？
 - There's a [[Cafeteria]] right at the bottom of that [[Hill]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T17:56:34.350Z
+  card-last-reviewed:: 2024-08-06T15:56:34.351Z
+  card-last-score:: 5
 - It's your [[Allowance]]. #card
   card-last-interval:: 4.1
   card-repeats:: 1
@@ -185,6 +233,12 @@
   card-last-reviewed:: 2024-08-03T02:32:31.575Z
   card-last-score:: 5
 - This is my first time on a road completely [[Devoid]] of streetlights. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:24:52.288Z
+  card-last-score:: 1
 - [[Pork]] [[Cutlet]] bowl
 - I only hear the insects [chirping]([[Chirp]]) in the [bushes]([[Bush]]). #card
   card-last-interval:: 3.32
@@ -229,8 +283,20 @@
   card-last-score:: 1
 	- 为什么会有泼水声
 - Judging from its size, it's likely an [[Elementary school]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:31:48.377Z
+  card-last-reviewed:: 2024-08-06T16:31:48.377Z
+  card-last-score:: 5
 - There are some tiny [ripples]([[Ripple]]) in the pool. #card
 - This is the first time I've seen a pool with so few [lanes]([[Lane]]). #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:07:52.071Z
+  card-last-score:: 1
 	- 泳池的赛道很少
 - A [[Shiver]] runs down my [[Spine]]. #card
   card-last-interval:: -1
@@ -241,6 +307,12 @@
   card-last-score:: 1
 	- 看到白羽在游泳很害怕
 - Taking a second look, schools are kind of [[Creepy]] this late at night. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:15:52.159Z
+  card-last-score:: 1
 - I [[Spin]] around. #card
   card-last-interval:: 3.32
   card-repeats:: 1
@@ -250,6 +322,12 @@
   card-last-score:: 3
 	- 听到有人从水里出来，转身去看
 - It's almost like the pool's [[Guardian]] [[Deity]] has [manifested]([[Manifest]]) itself. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:16:46.928Z
+  card-last-score:: 1
 	- 把白羽当成泳池守护神了
 - She's probably [[Apprehensive]]. #card
   card-last-interval:: -1
@@ -267,6 +345,12 @@
   card-last-reviewed:: 2024-08-03T11:21:52.121Z
   card-last-score:: 5
 - Which way should I go to get the Katou [[Residence]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:18:32.295Z
+  card-last-reviewed:: 2024-08-06T16:18:32.296Z
+  card-last-score:: 5
 - Take a left when you reach the [[Intersection]]. #card
   card-last-interval:: -1
   card-repeats:: 1
@@ -291,7 +375,19 @@
   card-last-score:: 3
 	- 与白羽见面吓了主角一跳
 - I was so [flustered]([[Fluster]]) that I couldn't look her in the face. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-06T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T15:53:59.904Z
+  card-last-score:: 1
 - I answer and [[Vacantly]] shake my head. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:35:53.592Z
+  card-last-reviewed:: 2024-08-06T16:35:53.592Z
+  card-last-score:: 5
 - It's part of the island's [[Dialect]], and you use it when you're really annoyed or [irritated]([[Irritate]]). #card
   card-last-interval:: -1
   card-repeats:: 1

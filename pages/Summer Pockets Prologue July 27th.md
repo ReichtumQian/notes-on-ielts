@@ -19,6 +19,12 @@
 	- aunt 希望主角去 go shopping
 - I [[Twist]] the [[Throttle]] and [[Depart]]. #card
 - A [[Lone]] girl is standing still at the [[Dock]] with her back with me. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-09T23:11:43.091Z
+  card-last-reviewed:: 2024-08-06T16:11:43.091Z
+  card-last-score:: 3
 - The girl is just spending her time watching the ship [[Sail]] away.
 - Saying that, Shiroha hangs her head and [briskly]([[Brisk]]) walks away. #card
 	- 白羽等船走了，她也走了

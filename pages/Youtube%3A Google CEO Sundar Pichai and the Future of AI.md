@@ -9,6 +9,12 @@
   card-last-reviewed:: 2024-08-03T02:33:07.479Z
   card-last-score:: 1
 - Pichai has been carefully [crafting]([[Craft]]) strategy that [infuses]([[Infuse]]) AI into every corner of the business. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:20:20.599Z
+  card-last-score:: 1
 - OpenAI seemingly [knocked]([[Knock]]) Google off its [[Perch]].
 - But for Pichai, the [[Frenzy]] is just part of the long game.
 - The [[Stock]] jumped more than it has in a long time.

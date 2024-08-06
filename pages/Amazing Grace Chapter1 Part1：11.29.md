@@ -50,6 +50,12 @@
   card-last-score:: 1
 - Sakuya hands me a shirt and a [[Sweater]]. #card
 - I like to make little [outfits]([[Outfit]]) sometimes. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:35:49.200Z
+  card-last-reviewed:: 2024-08-06T16:35:49.201Z
+  card-last-score:: 5
 - They looked like [miniatures]([[Miniature]]) so high up that. #card
   card-last-interval:: -1
   card-repeats:: 1
@@ -75,6 +81,12 @@
 - It feels strangely [[Ominous]], but the two girls seem completely [[Unfazed]].
 - I [[Alternate]] between an [[Earnest]] apology and [[Sincere]] thanks. #card
 - I see two horses pulling a [[Carriage]] with a woman inside.#card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:23:59.864Z
+  card-last-reviewed:: 2024-08-06T16:23:59.864Z
+  card-last-score:: 5
 - Cars, to me, are generally [automobiles]([[Automobile]]).
 - That [[Merry]]-go- [[Round]] looks like something out of a [[Fairy]] [[Tale]]. #card
   card-last-interval:: 4.1
@@ -87,11 +99,23 @@
 - [[Bell]] tower.
 - This spot's really [[Picturesque]].
 - We turn the corner and are immediately greeted by a [[Magnificent]] [[Gate]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:02:41.596Z
+  card-last-reviewed:: 2024-08-06T16:02:41.596Z
+  card-last-score:: 5
 - The building before me is far more [[Majestic]] and [[Glorious]] than anything I might have imagined.
 - Aren't schools usually more simple and [[Modest]]?
 	- 学校不应该更谦虚一点？（太过壮丽了）
 - Not being able to remember is [[Torture]].
 - It's like there's something. Right on the [[Tip]] of my [[Tongue]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:09:00.726Z
+  card-last-reviewed:: 2024-08-06T16:09:00.727Z
+  card-last-score:: 5
 	- 好像有想说的，但是说不出
 - Just take a deep breath, and remove the [chains]([[Chain]]) holding back your memories! #card
   card-last-interval:: 4.1

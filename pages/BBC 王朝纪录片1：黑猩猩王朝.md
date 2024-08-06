@@ -241,6 +241,12 @@
   card-last-score:: 5
 	- David 与 KL 重新结盟
 - [Exhausted]([[Exhaust]]) and [[Fragile]], he's only [hanging on]([[Hang on]]) to his leadership by a [[Thread]]. #card
+  card-last-interval:: 3.32
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-09T23:35:16.857Z
+  card-last-reviewed:: 2024-08-06T16:35:16.857Z
+  card-last-score:: 3
 - With a [[Submissive]] [[Gesture]], he seeks forgiveness from David. #card
   card-last-interval:: 4.1
   card-repeats:: 1
@@ -250,6 +256,12 @@
   card-last-score:: 5
 	- 对手祈求 David 的原谅
 - There is water everywhere and [[Glut]] of food. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:15:40.951Z
+  card-last-score:: 1
 - The [[Pressure]] on the group is [lifted]([[Lift]]). #card
 	- 下雨天后族群压力减轻了
 - He [gorges]([[Gorge]]) on everything he can find. #card

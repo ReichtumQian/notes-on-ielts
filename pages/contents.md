@@ -1,4 +1,8 @@
 ## 当前学习方案
+- Principle：早读、晚背、白天学习
+	- 早读：早读可以将输入转化为输出，可以读电视电影台词，可以读教材语料
+	- 晚背：复习 Card，包括表达复习以及词汇复习
+	- 白天学习：白天增加 Card 以及刷题，将零散知识整理到一起
 - ### 学习
 - （听力学习）听【一点英语】、 [严肃的英语](https://space.bilibili.com/1688515694?spm_id_from=333.337.search-card.all.click)、[BigShot英语](https://space.bilibili.com/1589382178?spm_id_from=333.337.0.0)，可以精听（即听写）或者学习一下语料
   logseq.order-list-type:: number
@@ -35,6 +39,7 @@
 - ### 口语
 - 杨帅教你 900 句口语：[杨帅教你900句音频](https://app8tmuj6dd3979.h5.xiaoeknow.com/p/course/column/p_616e23d5e4b0fcb77529d511)、[[杨帅教你 900 句口语笔记]]
 - 杨帅雅思口语真题素材：[[杨帅雅思口语真题素材笔记]]
+- 晨读语料：
 - ### 听力
 - 听力训练：[[一点英语笔记]]、[[严肃的英语笔记]]、[[BigShot 英语笔记]]
 - `Youtube` 英语学习：

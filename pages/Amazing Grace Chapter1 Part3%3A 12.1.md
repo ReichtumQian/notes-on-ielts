@@ -38,7 +38,19 @@
 - A [[Miracle]] that saved the town ...
 - 101 years ago, the apocalypse(世界末日) brought about the end of [[Humanity]].
 - Sister Lili closes her eyes, as if [meditating]([[Meditate]]), before speaking. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:36:09.286Z
+  card-last-score:: 1
 - Although if all life on Earth really had been [extinguished]([[Extinguish]]). #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:32:28.876Z
+  card-last-score:: 1
 - The [[Remnant]] of the [[Apocalypse]].
 - Declaring my discomfort only further label me a [[Heretic]].
 - Tomorrow is the start of [[Advent]].
@@ -46,9 +58,27 @@
 - Let's hurry back and have some guy time in the [[Tub]]. #card
 	- 准备洗澡
 - The three of us [[Rinse]] off the sweat from a long day. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:19:27.956Z
+  card-last-score:: 1
 - Although I find it almost [[Peculiar]] how much our values seem to differ.
 - I'm [lounging]([[Lounge]]) in my room following dinner when I hear something [[Smash]] against my window. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:11:33.336Z
+  card-last-score:: 1
 - My first thought is that it must be a snowstorm, but I can't [[Muster]] the energy to get out of bed and check. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:10:32.182Z
+  card-last-score:: 1
 - Afraid the [[Barrage]] of banging will break the glass.
 - She enters my room through the window, [[Murderous]] [[Rage]] blazing in her eyes.
 - She's seething with anger, like an [[Inferno]] of [[Glorious]] [flames]([[Flame]]) of azure [[Fury]].

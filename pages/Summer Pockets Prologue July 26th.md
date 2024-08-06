@@ -21,6 +21,12 @@
   card-last-score:: 3
 	- Umi 完全掌握了主动权
 - We're playing rock-paper-[scissors]([[Scissor]]) #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:23:12.008Z
+  card-last-reviewed:: 2024-08-06T16:23:12.008Z
+  card-last-score:: 5
 	- 石头剪刀布
 - There are things like taking out the [[Trash]] and getting [groceries]([[Grocery]]). #card
   card-last-interval:: 4.1
@@ -113,6 +119,12 @@
 - I think he's trying to [[Mimic]] a longicorn(长角的）
 	- 吓唬小孩子中
 - I [[Come across]] a shirtless guy who's sitting on a [[Bench]] eating ice cream. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-10T18:31:57.361Z
+  card-last-reviewed:: 2024-08-06T16:31:57.362Z
+  card-last-score:: 5
 - It seems he's mistaken me as some kind of [[Compatriot]].
 	- 主角和好基友都没穿衣服
 - At that instant, the air around my ears suddenly [bursts]([[Burst]]).
@@ -171,6 +183,12 @@
 - The guy laughs happily, [brushes]([[Brush]]) his hair up, and [winks]([[Wink]]) for some reason.
 - He's way too [[Persistent]].
 - I haven't done anything that [[Repulsive]], have I? #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-06T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T15:44:16.477Z
+  card-last-score:: 1
 	- 主角对基友说了烦色特了
 - Just how much did that girl [[Loathe]] me.
 	- 烦色特了反映出白羽有多讨厌主角
@@ -207,6 +225,12 @@
   card-last-reviewed:: 2024-08-03T02:56:32.269Z
   card-last-score:: 5
 - Are you trying to [[Flirt]] with me? Instinctively, I [[Blurt]] our laughing. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-06T16:14:58.383Z
+  card-last-score:: 1
 - I'm struck with a sense of [[Anxiety]].
 - She can [[Kick]] just fine, but she's barely moving forward.
 - The girl climbs out of the pool and [flings]([[Fling]]) her hair to shake off some water.
