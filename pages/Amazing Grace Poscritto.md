@@ -1,0 +1,12 @@
+-
+-
+- The beauty of her [[Profile]] as she gazes upwards reminds me of our [[Fortuitous]] first meeting. #card
+- Her unblinking, [[Ephemeral]] expression [[Reminiscent]] of an [[Exquisite]] [[Sculpture]]. #card
+- Where's your [[Signature]] [[Quip]]? #card
+- She [giggles]([[Giggle]]) delightedly. #card
+- The knowledge was [shoved]([[Shove]]) into my brain. #card
+	- After a bite on the apple.
+- In the [[Midst]] of that [[Catastrophic]] [[Scenario]], all she wanted was the chance to try again. #card
+- An act of God had [decimated]([[Decimate]]) the town.
+-
+-
