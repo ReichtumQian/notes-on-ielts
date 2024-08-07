@@ -1,0 +1,10 @@
+-
+-
+- It's not nearly that [[Sophisticated]].
+- [Murals]([[Mural]]) [[Evoke]] [[Splendid]] works of art in my mind. #card
+- To [[Deface]] public [[Property]] without permission when there's plenty of empty convasses. #card
+- I wonder what his [[Motive]] is? #card
+-
+-
+-
+-

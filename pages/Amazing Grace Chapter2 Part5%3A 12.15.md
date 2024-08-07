@@ -1,0 +1,7 @@
+-
+-
+- Is it [[Hatred]]? Disappointment? [[Rage]]?
+- My [[Consciousness]] [slips]([[Slip]]) away and I fall into darkness.
+-
+-
+-

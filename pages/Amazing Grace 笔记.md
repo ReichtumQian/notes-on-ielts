@@ -7,6 +7,8 @@
 - [[Amazing Grace Chapter2 Part1: 12.3]]
 - [[Amazing Grace Chapter2 Part2: 12.4]]
 - [[Amazing Grace Chapter2 Part3: 12.5]]
--
--
+- [[Amazing Grace Chapter2 Part4: 12.12]]
+- [[Amazing Grace Chapter2 Part5: 12.15]]
+- [[Amazing Grace Chapter2 Part6: 12.18]]
+- [[Amazing Grace Chapter2 Part7: 12.25]]
 -

@@ -1,0 +1,36 @@
+-
+-
+- A horse jumps out from the [[Throng]] in front of me before [galloping]([[Gallop]]) away.
+- Something [startled]([[Startle]]) the horses in the [[Parade]] over there, and they [bolted]([[Bolt]]). #card
+- It looks like this wasn't a planned part of the parade, but a [[Freak]] accident. #card
+- The [[Curtain]] comes down on a truly amazing ending. #card
+- Youji hands Kirie a [[Can]] of juice, which she [gulps]([[Gulp]]) with [[Relish]]. #card
+- After a long [[Semester]] of work, there's an [[Elegance]] to the way she [tosses]([[Toss]]) it back. #card
+- Kotoha was really [[Adorable]], though. #card
+- My [[Anxiety]] suddenly [intensifies]([[Intensify]]). #card
+	- Kirie 说下学期还要拍电影，男主一下焦虑了
+- I accidentally [[Bump]] into another student. #card
+	- 不小心撞到别人
+- Their conversation is so [[Incoherent]], I have no idea what's going on. #card
+- Color me [spooked]([[Spook]]).
+- The once [subdued]([[Subdue]]) and almost [[Desolate]] tree is covered in colorful ornaments.
+- It feels very [[Festive]] and [[Merry]]. #card
+- All it [decorated]([[Decorate]]) was our stomachs, I guess. #card
+	- 如果所有装饰都可以变成苹果，则装饰的是肚子
+- The [trumpets]([[Trumpet]]), you can hear them even all the way out here.
+- The [trumpets]([[Trumpet]]) have been sounding off at regular [intervals]([[Interval]]) since nine in the morning. #card
+- The drinks [spilled]([[Spill]]) everywhere. #card
+	- 地震让饮料撒的到处都是
+- Sorry, Shuu, but [[Hush]] for a moment.
+- I'm well aware of how [[Acute]] her hearing is, especially after [witnessing]([[Witness]]) it for myself. #card
+- Raging [flames]([[Flame]]) [[Engulf]] everything.
+- The flames surrounding the [scorched]([[Scorch]]) [[Shell]] of the school [[Illuminate]] our surroundings as clear as day. #card
+- I'm struck by the sharp contrast between the [tumbling]([[Tumble]]) [snowflakes]([[Snowflake]]) and the [[Fierce]] [[Blaze]]. #card
+- Just as we're trying to take [[Stock]] of the situation. #card
+- She instantly [pinpointed]([[Pinpoint]]) the location based on the sound alone. #card
+- With fires this large, there's bound to be [casualties]([[Casualty]]). #card
+- I'm suddenly [gripped]([[Grip]]) with uneasiness.
+-
+-
+-
+-

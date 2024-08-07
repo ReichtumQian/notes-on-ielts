@@ -1,23 +1,23 @@
 - 准备迎接圣诞节了
 - ## Morning
-- The chapel is [crammed]([[Cram]]) full of students.
-- It seems like a fairly important time in the [[Christian]] [[Faith]].
-- Wherever she might be [loitering]([[Loiter]]) around right now, it's clear how [[Faithful]] she is.
-- The people will [[Faint]] from fear of what the future holds for them.
-- Seeing the [[Disturbance]] in the Heavens above.
-- Perhaps our town will [[Undergo]] a [[Reformation]] of sorts someday as well.
-- The whole town feels more [[Festive]] and Chrismas.
-- The town's people do seem more [[Restless]] than usual.
-- The weather might be [[Frightful]].
-- It seems like it gets more [[Extravagant]] every year.
+- The chapel is [crammed]([[Cram]]) full of students. #card
+- It seems like a fairly important time in the [[Christian]] [[Faith]]. #card
+- Wherever she might be [loitering]([[Loiter]]) around right now, it's clear how [[Faithful]] she is. #card
+- The people will [[Faint]] from fear of what the future holds for them. #card
+- Seeing the [[Disturbance]] in the Heavens above. #card
+- Perhaps our town will [[Undergo]] a [[Reformation]] of sorts someday as well. #card
+- The whole town feels more [[Festive]] and Chrismas. #card
+- The town's people do seem more [[Restless]] than usual. #card
+- The weather might be [[Frightful]]. #card
+- It seems like it gets more [[Extravagant]] every year. #card
 - The name of the [[Explosive]]. She names her [bombs]([[Bomb]]) after the soap she used to make them.
 	- 炸药的名称
-- It's an old drama club secret [[Recipe]].
+- It's an old drama club secret [[Recipe]]. #card
 	- Kirie 的炸药配方
 - In other words, danger [lurks]([[Lurk]]) around every corner!
-- Last year's [[Climactic]] [[Finale]] was pretty bad.
+- Last year's [[Climactic]] [[Finale]] was pretty bad. #card
 - You're not afraid of getting caught red handed with a bunch of neighborhood [[Cop]]?
-- Those who [[Confide]] in a [[Priest]] about their issues.
+- Those who [[Confide]] in a [[Priest]] about their issues. #card
 - It's where they thoroughly [[Chew out]] students who [[Misbehave]].
 - The room of [[Rebuke]]!
 - ## 回到 Dorm

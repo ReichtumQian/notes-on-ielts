@@ -22,7 +22,7 @@
 	- Yune 说可不可能是树上掉的苹果，显然不成立
 - But no matter how hard we [[Ponder]] the possibilities, we come up empty.
 - Yune's [[Hunch]] tend to be pretty [[Spot-on]].
-- I try listening [[Intently]].
+- I try listening [[Intently]]. #card
 - Excitement races through my [veins]([[Vein]]) in [[Anticipation]] of what new adventures tomorrow brings.
 -
 -

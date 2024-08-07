@@ -1,22 +1,22 @@
 -
-- Students are able to come and go at their [[Leisure]].
+- Students are able to come and go at their [[Leisure]]. #card
 - That must mean the park's as large as several [[Baseball]] stadiums.
 - From the playground to the Tear down to each individual [[Blade]] of grass, has been [meticulously]([[Meticulous]]) placed.
-- Even the park is [elevated]([[Elevate]]) to a work of fine art. The town's focus on the arts is truly [astounding]([[Astound]]).
+- Even the park is [elevated]([[Elevate]]) to a work of fine art. The town's focus on the arts is truly [astounding]([[Astound]]). #card
 - I glance over her body, her chest [puffed]([[Puff]]) up with pride.
-- There's a huge [[Fountain]] that [spews]([[Spew]]) [[Insane]] amounts of water and a [[Bunch]] of iron bars [twisted]([[Twist]]) into nonsensical shapes if you keep walking.
+- There's a huge [[Fountain]] that [spews]([[Spew]]) [[Insane]] amounts of water and a [[Bunch]] of iron bars [twisted]([[Twist]]) into nonsensical shapes if you keep walking. #card
 - The [[Pillar]] of Lot.
-- At any rate, it all seems on [[Brand]] with the [[Artistic]] [sensibilities]([[Sensibility]]) of the artist who created it all.
-- There's no way I have a moment of creative [[Clarity]].
+- At any rate, it all seems on [[Brand]] with the [[Artistic]] [sensibilities]([[Sensibility]]) of the artist who created it all. #card
+- There's no way I have a moment of creative [[Clarity]]. #card
 - ## 开始逛商品区
-- You should definitely check out the [[Thrift]] shop.
+- You should definitely check out the [[Thrift]] shop. #card
 - The [[Donut]] shop is by far the best, in my opinion.
 - [[Munch]], munch. These donuts are so [[Yummy]].
 - The [sneakers]([[Sneaker]]) I pointed out are pretty [[Tasty]], too.
 - One [[Stall]] stood out amongst the rest, a wide variety of [[Merchandise]] [[Prominently]] on display. #card
-- You can't continue in the art world without securing a [[Patron]] first, though.
+- You can't continue in the art world without securing a [[Patron]] first, though. #card
 - Not to [[Brag]], but I know everyone's names and faces!
-- My [[Reputation]] [precedes]([[Precede]]) me, huh?
+- My [[Reputation]] [precedes]([[Precede]]) me, huh? #card
 - A [[Premium]] quality reaper's scythe.（收割者镰刀）
 - The owner's hand-made [[Furniture]] corner includes small chairs, a [[Wardrobe]], a clothes [[Rack]], and a couple other matching wooden pieces.
 - The store is so [[Shoddy]] it looks like it's about to go out of business.
