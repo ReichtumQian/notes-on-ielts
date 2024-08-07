@@ -265,6 +265,12 @@
 - The [[Pressure]] on the group is [lifted]([[Lift]]). #card
 	- 下雨天后族群压力减轻了
 - He [gorges]([[Gorge]]) on everything he can find. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-07T15:52:32.777Z
+  card-last-score:: 1
 	- David 需要狂吃恢复体力
 - Soon, another female will be ready to [[Mate]]. #card
   card-last-interval:: 4.1

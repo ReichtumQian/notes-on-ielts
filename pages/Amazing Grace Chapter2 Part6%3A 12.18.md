@@ -15,6 +15,12 @@
 	- To find who is painting everywhere in the town.
 - It's hard to catch a graffiti artist when everyone in town is a [[Suspect]]. #card
 - What's the [[Subject]]? Maybe that will help [[Narrow]] down the [[Pool]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-11T17:54:05.820Z
+  card-last-reviewed:: 2024-08-07T15:54:05.820Z
+  card-last-score:: 5
 	- By checking what is painted, it can help to find the person out.
 - Don't make me [[Scribble]] all over your face.
 -

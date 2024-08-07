@@ -1,11 +1,29 @@
 - 准备迎接圣诞节了
 - ## Morning
 - The chapel is [crammed]([[Cram]]) full of students. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-07T15:49:51.590Z
+  card-last-score:: 1
 - It seems like a fairly important time in the [[Christian]] [[Faith]]. #card
 - Wherever she might be [loitering]([[Loiter]]) around right now, it's clear how [[Faithful]] she is. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-07T15:46:32.257Z
+  card-last-score:: 1
 - The people will [[Faint]] from fear of what the future holds for them. #card
 - Seeing the [[Disturbance]] in the Heavens above. #card
 - Perhaps our town will [[Undergo]] a [[Reformation]] of sorts someday as well. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-07T15:47:10.047Z
+  card-last-score:: 1
 - The whole town feels more [[Festive]] and Chrismas. #card
 - The town's people do seem more [[Restless]] than usual. #card
 - The weather might be [[Frightful]]. #card
@@ -22,7 +40,19 @@
 - The room of [[Rebuke]]!
 - ## 回到 Dorm
 - That yellow cable connects to the [[Projector]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-11T17:40:15.160Z
+  card-last-reviewed:: 2024-08-07T15:40:15.160Z
+  card-last-score:: 5
 - The [[Blizzard]] [[Bomber]]: Winter's [[Siege]]. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-07T15:47:49.212Z
+  card-last-score:: 1
 	- 电影名：暴雪投弹手：冬日围攻？
 - Your [[Predecessor]] makes an [[Appearance]] in this film, so pay attention! #card
   card-last-interval:: 4.1

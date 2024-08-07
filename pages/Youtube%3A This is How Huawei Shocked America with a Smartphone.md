@@ -1,6 +1,12 @@
 - 视频来源：[This Is How Huawei Shocked America With a Smartphone - YouTube](https://www.youtube.com/watch?v=08myo1UdTZ8&ab_channel=BloombergOriginals)
 -
 - The microprocessor that was designed and [manufactured]([[Manufacture]]) in China. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-07T15:48:52.247Z
+  card-last-score:: 1
 - US [[Secretary]] of [[Commerce]] Gina Raimondo's visit to BeiJing was supposed to calm a [[Standoff]]. #card
   card-last-interval:: 3.32
   card-repeats:: 1

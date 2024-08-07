@@ -1,12 +1,30 @@
 -
 - Students are able to come and go at their [[Leisure]]. #card
+  card-last-interval:: 4.1
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2024-08-11T16:51:05.557Z
+  card-last-reviewed:: 2024-08-07T14:51:05.558Z
+  card-last-score:: 5
 - That must mean the park's as large as several [[Baseball]] stadiums.
 - From the playground to the Tear down to each individual [[Blade]] of grass, has been [meticulously]([[Meticulous]]) placed.
 - Even the park is [elevated]([[Elevate]]) to a work of fine art. The town's focus on the arts is truly [astounding]([[Astound]]). #card
 - I glance over her body, her chest [puffed]([[Puff]]) up with pride.
 - There's a huge [[Fountain]] that [spews]([[Spew]]) [[Insane]] amounts of water and a [[Bunch]] of iron bars [twisted]([[Twist]]) into nonsensical shapes if you keep walking. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-07T15:51:55.414Z
+  card-last-score:: 1
 - The [[Pillar]] of Lot.
 - At any rate, it all seems on [[Brand]] with the [[Artistic]] [sensibilities]([[Sensibility]]) of the artist who created it all. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-07T16:00:00.000Z
+  card-last-reviewed:: 2024-08-07T15:53:54.410Z
+  card-last-score:: 1
 - There's no way I have a moment of creative [[Clarity]]. #card
 - ## 开始逛商品区
 - You should definitely check out the [[Thrift]] shop. #card
