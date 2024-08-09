@@ -233,7 +233,7 @@
   card-last-score:: 1
 - I'm struck with a sense of [[Anxiety]].
 - She can [[Kick]] just fine, but she's barely moving forward.
-- The girl climbs out of the pool and [flings]([[Fling]]) her hair to shake off some water.
+- The girl climbs out of the pool and [flings]([[Fling]]) her hair to shake off some water. #card
 -
 -
 -

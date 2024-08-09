@@ -1,0 +1,27 @@
+-
+- Oh, that's right, my clock is [busted]([[Bust]]). #card
+	- 闹钟坏了
+- Just as I'm [mourning]([[Mourn]]) my [[Awful]] luck. #card
+- my [[Dove]] clock.
+- I handed it over for [repairs]([[Repair]]), so it shouldn't be here! #card
+- The power that red apple [bestowed]([[Bestow]]) on Yune was real after all. #card
+- Her expression is completely [[Neutral]], her question exceedingly normal yet completely bizarre. #card
+	- Yune 不记得他们穿越了
+- Yune continuously nods in the face of my obvious [bafflement]([[Baffle]]). #card
+	- Yune 不记得他们穿越了
+- A part of me is [relieved]([[Relieve]]), although I can't ignore the [lingering]([[Linger]]) look of confusion on her face. #card
+- After waking up, Yune came [barging]([[Barge]]) into my room. #card
+- The reality of the situation quickly [dawns]([[Dawn]]) to me. #card
+	- 男主理解了只有他还有穿越的记忆
+- I make a [[Mental]] note.
+- After hearing her footsteps vanish into the distance, I [[Vent]] my frustrations into my empty room. #card
+- The person who [initiates]([[Initiate]]) the time travel can't [[Retain]] their memories. #card
+- I have to build the most [[Magnificent]] [[Ark]] I can to ensure her efforts were not in [[Vain]]. #card
+- Everyone's actions, follows the [predestined]([[Predestine]]) script exactly.
+- While I'm definitely [diverging]([[Diverge]]) from the [predestined]([[Predestine]]) course of events. #card
+- She's so sweet that I don't think my little [[Goof]] will [[Adversely]] affect our friendship. #card
+- I don't care if she thinks it's [[Ludicrous]].
+- If only we could avoid that [[Tragic]] ending. #card
+-
+-
+-

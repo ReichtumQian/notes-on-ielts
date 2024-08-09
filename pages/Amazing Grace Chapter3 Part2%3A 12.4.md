@@ -1,0 +1,22 @@
+-
+-
+- All of that was reset with the town's ultimate [[Demise]]. #card
+- Although slight [deviations]([[Deviation]]) shouldn't matter in the long run. #card
+- It's hard acting natural while [simultaneously]([[Simultaneous]]) keeping all that in mind. #card
+- I went to check on Yune's [[Rehearsal]] session next.
+- Actually, while on the hunt for the [[Elusive]] Yune, I end up running into Youji. #card
+- A [[Clandestine]] strategy meeting - with only one person in [[Attendance]].
+- All I saw were the [[Veritable]] [pillars]([[Pillar]]) of flames [ravaging]([[Ravage]]) the town, but there could have been more going on, like a huge earthquake or a [[Seismic]] shift. #card
+- Is my only option to [methodically]([[Methodical]]) [[Comb]] through town for anything flammable and destroy it? #card
+- There's a chance it was just some unknown active [[Volcano]] nearby that [erupted]([[Erupt]]). #card
+- With everyone celebrating throughout town, like [candles]([[Candle]]).
+- Is there a natural phenomenon that could somehow cause [[Successive]] explosions? #card
+- As far as I know, small [[Pan]] fires happen in the cafeteria. #card
+- I think I remember seeing a fire [[Extinguisher]]. #card
+- A tiny extinguisher isn't going to do much against a [[Cataclysmic]] [[Vortex]] of fire. #card
+- The reason I chose to [[Grill]] Kotoha first was due to her [[Intellect]] and ability to read people. #card
+- And the door into the gallery is [fortified]([[Fortify]]). #card
+-
+-
+-
+-

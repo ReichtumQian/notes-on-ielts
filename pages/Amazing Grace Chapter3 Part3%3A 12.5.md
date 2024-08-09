@@ -1,0 +1,5 @@
+-
+- Would you be a dear and fetch me my hand [[Lotion]] from my room?
+- Perhaps it's best to her continue living in [[Blissful]] [[Ignorance]]. #card
+-
+-

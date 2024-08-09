@@ -8,5 +8,19 @@
 	- After a bite on the apple.
 - In the [[Midst]] of that [[Catastrophic]] [[Scenario]], all she wanted was the chance to try again. #card
 - An act of God had [decimated]([[Decimate]]) the town.
+- This must be a dream or a [[Hallucination]]. That's the most [[Rational]], [[Sane]] explanation. #card
+- If I had to describe this [fabricated]([[Fabricate]]) [[Reality]] in one word. #card
+- Her smile, more [dazzling]([[Dazzle]]) than any [[Precious]] jewel, [hints]([[Hint]]) at a future that promises to be just as bright. #card
+- Our bodies will go back in time, but our memories will remain [[Intact]]. #card
+- This is clearly not a simple case of [[Arson]].
+- All of this is simply too far [fetched]([[Fetch]]).
+- Yune [winks]([[Wink]]) at me, as if say "Just you wait". #card
+- Like a [[Bow]]! You [[Stretch]] the bow [[Taut]], and then fwing(拟声词). So you're the bow in this [[Analogy]]? #card
+- Yune has to pull herself tight to [[Propel]] us back through time. #card
+- We fly on wings of light, to [[Alter]] the [tides]([[Tide]]) of time. #card
+-
+-
+-
+-
 -
 -

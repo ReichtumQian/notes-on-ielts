@@ -1,0 +1,32 @@
+-
+-
+- Damn your absurdly good [feinting]([[Feint]]) skills.
+- Everyone has a minute to [[Scatter]] and find a hiding spot! #card
+	- 玩捉迷藏
+- I've been [scoping]([[Scope]]) out the town as best I could. #card
+- The chances I can stop our Christmas tragedy from happening is [[Slim]]. #card
+- We'd pulled [straws]([[Straw]]) to decide pairs. #card
+- I'm close enough to both girls that it shouldn't matter who I'm paired with, but I'm still [[Grumpy]]. #card
+- They immediately confirm my [suspicions]([[Suspicion]]) when they start talking. #card
+- I find myself strangely [[Empathetic]] to Anna's [[Plight]]. #card
+- I doubt there's many who know the problems faced via time travel as [[Intimately]] as I do. #card
+- Kirie, known for her explosion [[Expertise]]. #card
+- But I don't care about [feigning]([[Feign]]) ignorance anymore. #card
+- All I can do is [[Clench]] my fists, a [shimmering]([[Shimmer]]) wall of intense heat separating us. #card
+- The faint, [[Flowery]] scent, [[Synonymous]] with Kirie's [[Trademark]] bombs. #card
+- Kirie seems to have a [soothing]([[Soothe]]) effect on Yune.
+- My [[Desperate]] prayers fall on [[Deaf]] ears, my hopes [ruthlessly]([[Ruthless]]) [squashed]([[Squash]]). #card
+- The art gallery. It's equipped with fireproof [shutters]([[Shutter]]) and doors. #card
+- The [[Basement]] is the best chance we've got. #card
+- Take a look for yourself. It's a pretty [[Hefty]] door, too. #card
+- I suddenly hear Yune [[Inhale]] sharply. #card
+- Yune [[Vocal]] abilities are so good, she's able to [[Fool]] the void [[Recognition]] device. #card
+- Feeling the [[Oppressive]] heat against my back, I realize there's only one thing left to do. #card
+- Ignoring the identification device, he begins [frantically]([[Frantic]]) calling out to whoever might hear us. #card
+-
+- ## Again
+- My eyes [[Dart]] around the area. #card
+-
+-
+-
+-

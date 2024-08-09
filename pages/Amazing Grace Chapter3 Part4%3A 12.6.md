@@ -1,0 +1,15 @@
+-
+- I'm awoken by an [[Incessant]] banging. #card
+- My brain goes into high [[Alert]], sent into a panic by the unexpected [[Commotion]]. #card
+- My memories come flooding back as soon as I spot the annoying girl on my [[Balcony]]. #card
+- I don't have time for your [whining]([[Whine]])! My plans are [[Foolproof]]! #card
+- Especially knowing every single one of her plans ends in [humiliating]([[Humiliate]]) [[Defeat]]. #card
+- By the time I've returned with a [[Shovel]], class has already begun. #card
+- If you're really that [swamped]([[Swamp]]) with homework, I'll help you. #card
+- Okay, since Sakuya's not here yet, I'll [[Humor]] you. Who is this [[Ultra]] [[Demonic]] [[Villain]] you have to protect the world against? #card
+- I'm prepared to become a test [[Dummy]] for Kirie's new [[Slimy]] [bombs]([[Bomb]]). #card
+-
+-
+-
+-
+-

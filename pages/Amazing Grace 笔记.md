@@ -12,5 +12,10 @@
 - [[Amazing Grace Chapter2 Part6: 12.18]]
 - [[Amazing Grace Chapter2 Part7: 12.25]]
 - [[Amazing Grace Poscritto]]
+- [[Amazing Grace Chapter3 Part1: 12.3]]
+- [[Amazing Grace Chapter3 Part2: 12.4]]
+- [[Amazing Grace Chapter3 Part3: 12.5]]
+- [[Amazing Grace Chapter3 Part4: 12.6]]
+- [[Amazing Grace Chapter3 Part5: 12.11-12.25]]
 -
 -
